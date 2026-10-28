@@ -1,0 +1,4 @@
+allowBuilds:
+  # drizzle-kit runs on esbuild, which needs its postinstall to link a binary.
+  esbuild: true
+  unrs-resolver: false

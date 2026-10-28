@@ -1,0 +1,628 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------
+   LUSTRE Sales Analytics, Intelligence & AI Decision Support Platform
+
+   The surface language: a soft sky-and-lilac canvas, with the product
+   sitting on a near-white sheet lifted over it on a large radius. Content
+   is carried by white cards with hairline borders — depth comes from the
+   sheet edge and from light, never from heavy shadow.
+
+   Ink is a blue-black rather than a true black, so type sits in the same
+   hue family as the canvas. One saturated royal blue is the only strong
+   colour in the chrome; everything else warm or vivid is reserved for
+   semantic meaning (up, down, at risk).
+   ------------------------------------------------------------------ */
+
+@theme {
+  /* ------------------------------------------------------- Canvas */
+  /* The gradient behind the whole shell. Three stops, not two: the lilac
+     in the middle is what keeps a large area of blue from reading as a
+     flat wash, and it is the one place a second hue is allowed. */
+  --color-canvas-sky: #cfe1f6;
+  --color-canvas-lilac: #e6e4f7;
+  --color-canvas-mist: #eef4fc;
+
+  /* The sheet the product sits on — a blue-cast off-white, never grey */
+  --color-background: #f4f7fc;
+  --color-foreground: #0f1729;
+
+  --color-card: #ffffff;
+  --color-card-foreground: #0f1729;
+
+  --color-primary: #2f4fe0;
+  --color-primary-foreground: #ffffff;
+
+  --color-secondary: #eef2fa;
+  --color-secondary-foreground: #0f1729;
+
+  --color-muted: #eef2f8;
+  --color-muted-foreground: #667085;
+
+  --color-border: #e8edf5;
+  --color-border-soft: #f0f3f9;
+  --color-input: #f6f8fc;
+  --color-ring: #2f4fe0;
+
+  /* Ink ramp — a blue-black and its two softer steps. The name is kept
+     from the previous palette so every existing `text-navy` in the
+     product moves to the new ink in one step. */
+  --color-navy: #0f1729;
+  --color-navy-soft: #344054;
+  --color-navy-muted: #4b5565;
+
+  /* Brand — the logo's own two inks, sampled from the supplied artwork.
+     Deliberately NOT the UI accent: the mark's navy is a duller indigo than
+     the royal blue the interface runs on, and the design uses both side by
+     side in the header. Nothing but the logo should use these. */
+  --color-brand: #323f7b;
+  --color-brand-gem: #b7b8b9;
+
+  /* Accent — one royal blue. Buttons, links, active nav, the primary
+     series on every chart. */
+  --color-accent: #2f4fe0;
+  --color-accent-dark: #2440c4;
+  --color-accent-bg: #eef2fe;
+  --color-accent-border: #d8e0fc;
+
+  /* Semantic only — the one place vivid colour carries meaning.
+     Each is a step deeper than the reference design's: these are read as
+     11px text inside their own tinted pill, where the brighter values
+     measured 2.9–4.4:1 against that tint. These clear 4.5:1. */
+  --color-positive: #157f43;
+  --color-positive-bg: #e8f7ef;
+  --color-negative: #cf2b1f;
+  --color-negative-bg: #fef3f2;
+  --color-warn: #b54708;
+  --color-warn-bg: #fef6ee;
+  --color-info: #2f4fe0;
+  --color-info-bg: #eef2fe;
+  --color-violet: #7839ee;
+  --color-violet-bg: #f4f0fe;
+  --color-teal: #0e9384;
+  --color-teal-bg: #e7f7f5;
+
+  /* Type — one geometric-humanist family for the product, and a display
+     serif used for exactly one thing: the LUSTRE wordmark. */
+  --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: var(--font-sans);
+  --font-wordmark: var(--font-playfair), ui-serif, Georgia, serif;
+
+  /* Radii — generous. The sheet is the largest, cards sit a step below,
+     and controls are fully round. */
+  --radius-sheet: 28px;
+  --radius-card: 16px;
+  --radius-tile: 12px;
+  --radius-chip: 8px;
+  --radius-pill: 999px;
+
+  /* Elevation — blue-tinted and barely there. A card is separated from
+     the sheet by its border first and its shadow second. */
+  --shadow-card: 0 1px 2px rgba(15, 23, 41, 0.04);
+  --shadow-raised: 0 8px 24px -6px rgba(15, 23, 41, 0.1), 0 2px 6px rgba(15, 23, 41, 0.05);
+  /* The sheet is lit from above and sits slightly off the canvas: a hairline
+     highlight along its top edge, then a soft drop on every side. */
+  --shadow-sheet: inset 0 1px 0 rgba(255, 255, 255, 0.9),
+    0 18px 40px -20px rgba(15, 23, 41, 0.18), 0 2px 8px -4px rgba(15, 23, 41, 0.07);
+  --shadow-pill: 0 1px 2px rgba(15, 23, 41, 0.06), 0 0 0 1px rgba(15, 23, 41, 0.04);
+}
+
+html,
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  /* Contextual alternates + kerning on; proportional figures for prose. */
+  font-feature-settings: "kern" 1, "calt" 1;
+}
+
+::selection {
+  background: #d8e0fc;
+  color: #0f1729;
+}
+
+/* Keyboard focus is always visible, and never shown for mouse users */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Scrollbars — thin and quiet so dense tables stay readable */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #cdd7e6 transparent;
+}
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #cdd7e6;
+  border-radius: 8px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@layer components {
+  /* --------------------------------------------------------- Canvas */
+  /* The sky the product sits under. Two soft radial lights over a vertical
+     wash: the lilac one at top-right and the blue one at top-left are what
+     stop the gradient banding across a wide monitor. Declared once here so
+     the shell and the signed-out panels cannot drift apart. */
+  /* Pastel ramps for the KPI micro-bars. Each card gets one hue and the
+     bars walk from its palest step to its full value, so the sparkline
+     reads as a single object rather than ten separate marks. Plain :root
+     vars, not @theme tokens — they're only ever read via var() from inline
+     JS styles, never as a Tailwind utility class, so @theme's tree-shaker
+     (which keeps a token only if it sees a matching utility class in the
+     scanned source) would otherwise drop them from the compiled CSS. */
+  :root {
+    --color-spark-violet: #a78bfa;
+    --color-spark-violet-soft: #ddd4fd;
+    --color-spark-cyan: #56b8d8;
+    --color-spark-cyan-soft: #c2e4f0;
+    --color-spark-coral: #f28a6c;
+    --color-spark-coral-soft: #fbd4c8;
+  }
+
+  :root {
+    --canvas-image:
+      radial-gradient(80rem 40rem at 85% -10%, rgba(214, 205, 244, 0.85) 0%, rgba(214, 205, 244, 0) 60%),
+      radial-gradient(70rem 36rem at 5% -15%, rgba(176, 208, 243, 0.9) 0%, rgba(176, 208, 243, 0) 62%),
+      linear-gradient(180deg, var(--color-canvas-sky) 0%, var(--color-canvas-mist) 38%, var(--color-background) 70%);
+  }
+
+  /* The shell's ground. Fixed attachment so the light stays put while the
+     content scrolls under it. */
+  .canvas {
+    background-color: var(--color-canvas-mist);
+    background-image: var(--canvas-image);
+    background-attachment: fixed;
+  }
+
+  /* The same sky on a panel that is not the viewport — the sign-in brand
+     column. Scrolls with its element, and is sized to it rather than to the
+     window, so the light lands in the panel's own top corner. */
+  .canvas-panel {
+    background-color: var(--color-canvas-mist);
+    background-image: var(--canvas-image);
+  }
+
+  /* The product surface, resting on the canvas. It is inset on all four
+     sides by the scroll container's padding, so it rounds on all four
+     corners: a surface held away from three edges and flush against the
+     fourth reads as a mistake rather than a decision.
+
+     The shadow is cast on every side for the same reason — the earlier
+     top-only shadow was correct when the sheet ran off the bottom of the
+     window, and wrong the moment it stopped. */
+  .sheet {
+    background: var(--color-background);
+    border-radius: var(--radius-sheet);
+    box-shadow: var(--shadow-sheet);
+  }
+
+  /* -------------------------------------------------------- Header */
+  /* One bar, not a row of separately-grounded controls. An earlier version
+     floated the nav, the search field and every icon button on its own
+     translucent capsule; over a gradient that reads as a scatter of
+     unrelated chips rather than a piece of chrome. Now a single opaque
+     pill carries the whole row, and everything inside it is transparent
+     until hovered. The bar itself stays invisible so the pill is the only
+     shape on the canvas. */
+  .header-bar {
+    background: transparent;
+  }
+  .header-pill {
+    background: #fff;
+    border-radius: var(--radius-pill);
+    box-shadow:
+      0 1px 2px rgba(15, 23, 41, 0.05),
+      0 10px 26px -16px rgba(15, 23, 41, 0.22);
+    transition: box-shadow 0.2s ease;
+  }
+  /* Once content is passing underneath, the pill lifts further off the
+     page rather than growing a hairline — a border would cut the bar in
+     two against the sheet directly below it. */
+  .header-bar[data-scrolled="true"] .header-pill {
+    box-shadow:
+      0 1px 2px rgba(15, 23, 41, 0.06),
+      0 16px 34px -18px rgba(15, 23, 41, 0.32);
+  }
+
+  /* ---------------------------------------------------- Navigation */
+  /* The header bar's own items. A pill rather than a tab: the bar sits on
+     a translucent capsule, and a square item inside a round container is
+     the one shape combination that always looks like a mistake. */
+  .nav-pill {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    height: 36px;
+    padding: 0 13px;
+    border-radius: var(--radius-pill);
+    font-size: 13.5px;
+    line-height: 1;
+    font-weight: 600;
+    white-space: nowrap;
+    color: var(--color-navy-muted);
+    transition: background-color 0.15s ease, color 0.15s ease,
+      box-shadow 0.15s ease;
+  }
+  .nav-pill:hover {
+    background: var(--color-secondary);
+    color: var(--color-navy);
+  }
+  /* Open but not current: lifted onto white so the panel below reads as
+     hanging off it, without claiming to be where you are. */
+  .nav-pill[data-open="true"] {
+    background: var(--color-secondary);
+    color: var(--color-navy);
+  }
+  /* Current section. Filled, because on a translucent bar a tint alone is
+     not reliably distinguishable from the hover state. */
+  .nav-pill[data-active="true"],
+  .nav-pill[data-active="true"]:hover,
+  .nav-pill[data-active="true"][data-open="true"] {
+    background: var(--color-accent);
+    color: #fff;
+    box-shadow: 0 2px 8px -2px rgba(47, 79, 224, 0.45);
+  }
+  .nav-pill[data-active="true"]:hover {
+    background: var(--color-accent-dark);
+  }
+
+  .nav-pill-icon {
+    width: 36px;
+    padding: 0;
+    justify-content: center;
+  }
+
+  /* ------------------------------------------------------ Surfaces */
+  .surface {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    box-shadow: var(--shadow-card);
+  }
+
+  /* A card header no longer draws a divider — the title simply opens the
+     card, the way the benchmark panel does in the design. That only works if
+     the body doesn't then re-pad the gap the header already left, so the top
+     padding is dropped when, and only when, a header sits directly above it.
+     Done as a sibling rule rather than a prop so a header-less body keeps its
+     full padding without any caller having to know. */
+  .card-header + .card-body {
+    padding-top: 0.25rem;
+  }
+
+  /* A quieter container for grouped tiles that live inside a surface */
+  .surface-quiet {
+    background: var(--color-card);
+    border: 1px solid var(--color-border-soft);
+    border-radius: var(--radius-tile);
+  }
+
+  /* ---------------------------------------------------- Typography */
+  /* Hierarchy is carried by size, weight and optical tracking. Large
+     text is tracked in; small text is left alone. */
+  .display {
+    font-family: var(--font-sans);
+    letter-spacing: -0.02em;
+  }
+  .display-lg {
+    font-family: var(--font-sans);
+    letter-spacing: -0.03em;
+  }
+
+  /* The wordmark, and nothing else. A serif earns its place as identity;
+     it has no business anywhere in the interface itself. */
+  .wordmark {
+    font-family: var(--font-wordmark);
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+
+  /* Every figure in the product: tracked in, and tabular so columns line up. */
+  .kpi-value {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    color: var(--color-navy);
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: "tnum" 1, "kern" 1;
+  }
+
+  .eyebrow {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-muted-foreground);
+  }
+
+  /* Dense tables keep every column but give up gutter width. Applied via the
+     Table component's `dense` prop, so the cell primitives stay unchanged. */
+  .table-dense th,
+  .table-dense td {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  /* Uppercase tracking is what makes a header read as a header, but on a
+     ten-column table it also sets the width of every column: "Concentration"
+     is a single word that cannot wrap, so each 0.01em costs real millimetres.
+     Easing it here keeps the label legible and buys back the width. */
+  .table-dense .table-head {
+    font-size: 10.5px;
+    letter-spacing: 0.04em;
+  }
+  .table-dense th:first-child,
+  .table-dense td:first-child {
+    padding-left: 20px;
+  }
+  .table-dense th:last-child,
+  .table-dense td:last-child {
+    padding-right: 20px;
+  }
+
+  .table-head {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-muted-foreground);
+  }
+
+  /* ------------------------------------------------------- Buttons */
+  /* Fully round. At a 38px height a pill and a 12px-radius rectangle
+     read very differently: the pill is what makes the chrome feel light
+     next to the large-radius cards. */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    border-radius: var(--radius-pill);
+    padding: 0 16px;
+    min-height: 40px;
+    font-size: 13px;
+    font-weight: 600;
+    white-space: nowrap;
+    transition: background-color 0.15s ease, border-color 0.15s ease,
+      color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .btn-primary {
+    background: var(--color-accent);
+    color: #fff;
+    border: 1px solid var(--color-accent);
+    box-shadow: 0 2px 8px -2px rgba(47, 79, 224, 0.5);
+  }
+  .btn-primary:hover {
+    background: var(--color-accent-dark);
+    border-color: var(--color-accent-dark);
+    box-shadow: 0 4px 12px -2px rgba(47, 79, 224, 0.55);
+  }
+  .btn-secondary {
+    background: var(--color-card);
+    color: var(--color-navy);
+    border: 1px solid var(--color-border);
+    box-shadow: var(--shadow-card);
+  }
+  .btn-secondary:hover {
+    background: var(--color-secondary);
+    border-color: #d8dfeb;
+  }
+  .btn-ghost {
+    background: transparent;
+    color: var(--color-navy-muted);
+    border: 1px solid transparent;
+  }
+  .btn-ghost:hover {
+    background: var(--color-secondary);
+    color: var(--color-navy);
+  }
+  .btn-done {
+    background: var(--color-positive);
+    color: #fff;
+    border: 1px solid var(--color-positive);
+  }
+  .btn-done:hover {
+    background: #116a38;
+    border-color: #116a38;
+  }
+  .btn-dismiss {
+    background: #fff;
+    color: var(--color-negative);
+    border: 1px solid var(--color-border);
+  }
+  .btn-dismiss:hover {
+    background: var(--color-negative-bg);
+    border-color: var(--color-negative);
+  }
+
+  /* Icon-only controls keep a 40px hit area regardless of glyph size,
+     and are round to match the buttons beside them. */
+  .icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    border-radius: var(--radius-pill);
+    color: var(--color-navy-muted);
+    transition: background-color 0.15s ease, color 0.15s ease;
+  }
+  .icon-btn:hover {
+    background: var(--color-secondary);
+    color: var(--color-navy);
+  }
+
+  /* The same control on the canvas rather than on a card — it needs its
+     own ground to stay legible over the gradient. */
+  .icon-btn-raised {
+    background: rgba(255, 255, 255, 0.75);
+    box-shadow: var(--shadow-pill);
+    color: var(--color-navy-soft);
+  }
+  .icon-btn-raised:hover {
+    background: #fff;
+    color: var(--color-navy);
+  }
+
+  /* ---------------------------------------------------------- Pills */
+  /* A small status capsule: delta chips, counts, "+8.2%". Tone classes
+     supply the colour; this only sets the shape and rhythm. */
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    border-radius: var(--radius-pill);
+    padding: 3px 9px;
+    font-size: 11.5px;
+    font-weight: 600;
+    line-height: 1.4;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  /* ---------------------------------------------------------- Motion */
+  /* One easing for everything that opens: a decelerating curve that starts
+     fast and settles, which is what makes a panel feel weighted rather than
+     mechanical. Durations stay under a quarter-second — long enough to follow,
+     short enough that a director clicking through twenty screens an hour never
+     waits on it. Every one of them is dropped for reduced motion. */
+  :root {
+    --ease-out-panel: cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  /* Slide-over drawer. Motion states where the panel came from. Only
+     `transform` and `opacity` move, so the panel is promoted to its own
+     compositor layer and the browser never re-lays-out the page to animate it.
+     `will-change` is scoped to the animating element and released the moment
+     the animation ends, so it costs one layer for a quarter of a second. */
+  .drawer-panel {
+    animation: drawer-in 0.24s var(--ease-out-panel) both;
+    will-change: transform, opacity;
+  }
+  .drawer-scrim {
+    animation: scrim-in 0.24s ease-out both;
+    will-change: opacity;
+  }
+  @keyframes drawer-in {
+    from {
+      transform: translate3d(28px, 0, 0);
+      opacity: 0;
+    }
+    to {
+      transform: translate3d(0, 0, 0);
+      opacity: 1;
+    }
+  }
+  @keyframes scrim-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Dropdown menus and popovers. Deliberately a translate and a fade with no
+     scale: scaling a panel full of 11–13px text forces the glyphs to be
+     re-rasterised on every frame, which is exactly the kind of shimmer that
+     reads as lag on a text-dense menu. Moving it instead keeps the type crisp
+     and the whole animation on the compositor. */
+  .menu-panel {
+    animation: menu-in 0.16s var(--ease-out-panel) both;
+    will-change: transform, opacity;
+  }
+  @keyframes menu-in {
+    from {
+      transform: translate3d(0, -6px, 0);
+      opacity: 0;
+    }
+    to {
+      transform: translate3d(0, 0, 0);
+      opacity: 1;
+    }
+  }
+
+  /* Content that swaps in place: a tab panel, a filtered table body. Position
+     is held still and only opacity moves, so nothing jumps under the cursor. */
+  .fade-in {
+    animation: fade-in 0.18s ease-out;
+  }
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .drawer-panel,
+    .drawer-scrim,
+    .menu-panel,
+    .fade-in {
+      animation: none;
+    }
+  }
+
+  /* Toast entry. One short slide from the corner it appears in — it states
+     where the message came from and then stops. Nothing pulses or repeats. */
+  .toast-card {
+    animation: toast-in 0.18s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+  @keyframes toast-in {
+    from {
+      transform: translateY(8px);
+      opacity: 0;
+    }
+  }
+
+  /* Loading placeholder. A slow, low-contrast breath rather than a sweeping
+     shimmer, which would draw the eye to the thing that is not there yet. */
+  .skeleton {
+    animation: skeleton-pulse 1.6s ease-in-out infinite;
+  }
+  @keyframes skeleton-pulse {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.55;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .toast-card,
+    .skeleton {
+      animation: none;
+    }
+  }
+}
+
+/* Recharts polish: no focus ring on the chart surface, quiet grid */
+.recharts-wrapper:focus,
+.recharts-surface:focus {
+  outline: none;
+}
+/* Recharts measures its parent, then paints an SVG at that width. Inside a
+   grid or flex track that painted SVG becomes the item's automatic minimum
+   size, so the column can grow but never shrink back — and the page ends up
+   scrolling sideways into empty background. Allowing the container to shrink
+   breaks the ratchet at the source, wherever a chart is placed. */
+.recharts-responsive-container,
+.recharts-wrapper {
+  min-width: 0;
+}
+.recharts-cartesian-grid line {
+  stroke: #e8edf5;
+}

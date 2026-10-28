@@ -1,0 +1,637 @@
+Customer Name,Revenue,Last Year,Country,Account Manager,Broker,First Purchase,Last Purchase,Invoices,Average Order Value,Carats,Stones,Average Discount,Payment Terms,Shape,Carat Band,Colour,Clarity,Lab
+Starling Creations NV,964325,901276.98,Belgium,Karan Bhatia,Northstar Agency,2024-08-20,2026-08-16,43,22426.16,16931.19,4755,98.31,60 days,RB,3.00-4.99,E,VS1,IGI
+Larkspur Jewellery Co,932264.9,886654.49,United States,Rohan Kapoor,,2024-08-08,2026-08-15,38,24533.29,18030.22,4814,98.4,Advance,RAD,3.00-4.99,F,VS2,IGI
+Amberly Stones NV,784141.76,731222.94,Belgium,Ananya Iyer,,2024-08-10,2026-08-12,30,26138.06,13950.22,3612,98.37,7 days,RB,3.00-4.99,H,VS1,IGI
+Amberly Jewellery LLC,684408.51,581478.05,United States,Rohan Kapoor,,2024-08-02,2026-08-18,41,16692.89,11815.25,4461,98.33,5 days,OV,2.00-2.99,F,VS1,IGI
+Bluestone Diamond Traders LLP,580654.93,0,India,Sameer Kulkarni,,2025-10-20,2026-08-17,35,16590.14,9626.03,2661,98.28,60 days,RB,3.00-4.99,H,VVS2,IGI
+Quartzline Jewels Ltd,500049.45,471621.22,United Kingdom,Dev Arora,,2024-08-07,2026-08-21,29,17243.08,8599.45,2393,98.24,60 days,RB,3.00-4.99,E,VS1,IGI
+Oakridge Brilliants Pty Ltd,461330.46,358085.76,Australia,Ananya Iyer,,2024-08-01,2026-08-14,16,28833.15,8599.77,1664,98.28,Advance,OV,5.00+,F,VS2,IGI
+Starling Jewels Inc,452899.56,401069.88,United States,Meera Pillai,,2024-08-16,2026-08-13,15,30193.3,9067.42,1764,98.31,30 days,RAD,5.00+,F,VS2,IGI
+Ivory Coast Stones Pvt Ltd,448491.49,378533.67,India,Priya Mehta,,2024-08-11,2026-08-22,35,12814.04,7373.16,3676,98.38,Advance,OV,1.50-1.99,E,VVS2,IGI
+Larkspur Gem House Pvt Ltd,443409.43,458882.21,India,Vikram Desai,,2024-08-05,2026-08-15,36,12316.93,8511.99,2329,98.38,Advance,MQ,3.00-4.99,F,VS1,IGI
+Quartzline Gems Ltd,407470.91,1082746.74,Hong Kong,Aditya Nair,,2024-08-16,2026-01-10,20,20373.55,7124.34,1936,98.34,7 days,RB,3.00-4.99,D,VS1,IGI
+Larkspur Gem House Co,377210.62,387550.6,United States,Ananya Iyer,,2024-08-12,2026-08-22,28,13471.81,6792.56,2670,98.33,7 days,ASH,2.00-2.99,D,VVS2,IGI
+Aurora Gems LLP,371995.24,348985.01,India,Aditya Nair,Northstar Agency,2024-08-05,2026-08-09,15,24799.68,6379.26,2110,98.27,Cash On Delivery,OV,2.00-2.99,E,VS1,IGI
+Tidewell Brilliants Co Ltd,370945.46,190698.77,Thailand,Rohan Kapoor,Northstar Agency,2025-04-10,2026-08-17,39,9511.42,6509.94,4492,98.29,5 days,RAD,1.00-1.49,E,VVS2,IGI
+Sapphire Bay Jewellery LLP,364605.59,7824.39,India,Ananya Iyer,Northstar Agency,2025-08-13,2026-08-19,53,6879.35,6552.18,2520,98.38,5 days,MQ,2.00-2.99,E,VS1,IGI
+Nobleton Gems LLP,334747.96,240815.92,India,Tara Menon,,2024-08-05,2026-08-15,30,11158.27,5807.52,3614,98.29,30 days,PE,0.50-0.99,E,VS1,IGI
+Bluestone Creations LLP,333186.2,179251.32,India,Isha Reddy,,2025-03-29,2026-08-12,24,13882.76,6023.99,2395,98.2,5 days,PE,1.50-1.99,D,VS1,IGI
+Meridian Jewellery LLC,316844.57,450823.76,United States,Dev Arora,,2024-08-03,2026-05-02,19,16676.03,5777.12,1630,98.22,Advance,OV,3.00-4.99,G,VVS2,IGI
+Meridian Brilliants LLC,312652.92,231128.33,United States,Aditya Nair,,2024-08-07,2026-08-15,31,10085.58,5791.41,1092,98.32,Advance,RB,5.00+,F,VS1,IGI
+Westbrook Creations LLP,308570.84,169657.13,India,Isha Reddy,,2025-03-17,2026-08-19,28,11020.39,5605,2916,98.29,30 days,MQ,1.50-1.99,H,VVS1,IGI
+Zenith Diamond Traders BVBA,293087.9,278978.26,Belgium,Tara Menon,,2024-08-14,2026-08-21,41,7148.49,4937.77,3920,98.17,7 days,MQ,0.50-0.99,E,VVS2,IGI
+Driftwood Creations BVBA,291052.78,198362.11,Belgium,Neha Joshi,Facet Partners,2024-08-14,2026-08-18,15,19403.52,5474.13,1783,98.42,Advance,EM,2.00-2.99,E,VS2,IGI
+Lumina Gem House Inc,277747.11,223485.63,United States,Aditya Nair,Atlas Gem Agents,2024-08-20,2026-08-03,15,18516.47,4470.33,1710,98.27,7 days,RB,2.00-2.99,F,VS2,IGI
+Glenhaven Brilliants Ltd,276317.04,234582.3,Hong Kong,Vikram Desai,,2024-08-12,2026-08-15,19,14543,5179.99,1886,98.26,Cash On Delivery,RAD,2.00-2.99,E,VS2,IGI
+Vantage Jewels Inc,275253.8,234785.32,United States,Karan Bhatia,,2024-08-01,2026-08-15,26,10586.68,5113.67,1672,98.24,Advance,CU,2.00-2.99,E,VVS2,IGI
+Bluestone Diamond Traders Inc,274934.35,111543.74,United States,Karan Bhatia,,2024-11-12,2026-08-18,21,13092.11,4821.79,2180,98.41,5 days,RAD,1.50-1.99,G,VS1,IGI
+Willowmere Jewellery NV,273320.83,248364.96,Belgium,Dev Arora,,2024-08-16,2026-08-13,15,18221.39,4379.88,1811,98.41,Cash On Delivery,RB,2.00-2.99,H,VS1,IGI
+Kingsbury Jewels Inc,268176.37,208043.46,United States,Ananya Iyer,,2024-08-04,2026-08-15,26,10314.48,4773.92,941,98.21,Advance,RB,5.00+,E,VS1,IGI
+Brightwater Diamond Traders Pvt Ltd,260359.84,181317.39,India,Ananya Iyer,,2024-08-17,2026-08-02,12,21696.65,5038.37,1389,98.4,Advance,CU,3.00-4.99,E,VVS1,IGI
+Willowmere Diamond Traders Ltd,256153.47,0,Hong Kong,Ananya Iyer,,2025-11-21,2026-08-16,29,8832.88,4622.64,1320,98.4,5 days,OV,3.00-4.99,E,VVS2,IGI
+Rosewood Brilliants Ltd,255049.22,284293.69,United Kingdom,Ananya Iyer,,2024-08-02,2026-08-11,23,11089.1,4179.13,2160,98.28,7 days,RB,1.00-1.49,G,VS1,IGI
+Northgate Stones Pvt Ltd,252033.81,340259.7,India,Dev Arora,,2024-08-06,2026-04-23,16,15752.11,4303.69,1155,98.22,Cash On Delivery,RB,3.00-4.99,G,VVS2,IGI
+Ivory Coast Stones LLC,246627.16,216238.61,United Arab Emirates,Isha Reddy,Facet Partners,2024-08-19,2026-08-14,22,11210.33,3995.65,1540,98.31,Advance,RB,2.00-2.99,E,VVS2,IGI
+Cobalt Gems Pvt Ltd,235566.73,231652.72,India,Priya Mehta,,2024-08-10,2026-08-22,28,8413.1,4502.58,1788,98.3,7 days,PE,2.00-2.99,F,VVS1,IGI
+Oakridge Gem House Inc,227424.37,214729,United States,Meera Pillai,,2024-08-09,2026-08-10,14,16244.6,4478.51,1442,98.27,5 days,ASH,3.00-4.99,H,VS1,IGI
+Tidewell Gem House Inc,227356.14,16923.04,United States,Tara Menon,,2025-07-23,2026-08-08,21,10826.48,4469.94,919,98.25,5 days,EM,5.00+,F,VS2,IGI
+Vantage Stones Ltd,225312.48,197063.35,Hong Kong,Dev Arora,,2024-08-14,2026-08-19,63,3576.39,3594.15,1791,98.35,Advance,RB,1.50-1.99,E,VS1,IGI
+Ironwood Stones KK,219359.08,224618.94,Japan,Priya Mehta,,2024-08-11,2026-08-20,49,4476.72,3456.52,2187,98.24,7 days,RB,1.00-1.49,E,VS1,IGI
+Starling Stones Co,215113.18,118691.86,United States,Tara Menon,,2025-01-03,2026-08-16,24,8963.05,3669.73,930,98.46,30 days,RB,3.00-4.99,F,VS2,IGI
+Kingsbury Fine Jewelry Inc,214713.56,208187.73,United States,Neha Joshi,,2024-08-02,2026-08-20,10,21471.36,3990.93,1263,98.5,Cash On Delivery,CU,3.00-4.99,E,VS1,IGI
+Oakridge Diamond Traders LLC,213340.56,0,United States,Isha Reddy,,2026-06-03,2026-08-19,14,15238.61,4234,1127,98.28,Cash On Delivery,MQ,3.00-4.99,E,VS1,IGI
+Crestline Creations LLC,197444.43,173263.41,United States,Vikram Desai,,2024-08-13,2026-08-03,22,8974.75,3415.66,2393,98.27,Cash On Delivery,CU,0.50-0.99,E,VS1,IGI
+Aurora Fine Jewelry Inc,197411.82,139193.91,United States,Karan Bhatia,,2024-08-10,2026-08-15,22,8973.26,4085.41,767,98.24,7 days,PE,5.00+,F,VS1,IGI
+Harbourline Jewels Ltd,195835.8,197403.41,Hong Kong,Meera Pillai,,2024-08-09,2026-08-16,16,12239.74,3452.55,1249,98.06,Advance,OV,2.00-2.99,H,VS1,IGI
+Meridian Jewels LLC,191340.29,218005.03,United Arab Emirates,Priya Mehta,,2024-08-03,2026-08-07,21,9111.44,3146.01,1991,98.25,5 days,OV,1.00-1.49,D,SI1,IGI
+Bellcourt Diamond Traders LLP,182808.83,438799.33,India,Neha Joshi,,2024-08-04,2026-02-26,20,9140.44,3367.43,974,98.35,Advance,CU,3.00-4.99,E,VVS2,IGI
+Crestline Diamonds LLP,179615.35,35595.77,India,Dev Arora,,2025-05-24,2026-07-26,13,13816.57,2815.64,1338,98.23,5 days,RB,3.00-4.99,E,SI1,IGI
+Vantage Diamonds Ltd,178016.69,149421.52,Israel,Neha Joshi,,2024-10-09,2026-08-14,35,5086.19,3164.8,1498,98.22,Cash On Delivery,PE,1.50-1.99,D,VS1,IGI
+Crestline Brilliants LLC,175881.47,202387.37,United States,Meera Pillai,,2024-08-13,2026-08-14,22,7994.61,3212.95,1621,98.37,5 days,PR,1.50-1.99,E,VS1,IGI
+Vantage Jewellery NV,172455.13,155729.88,Belgium,Aditya Nair,,2024-08-07,2026-07-22,14,12318.22,3390.82,954,98.14,7 days,PE,3.00-4.99,F,SI1,IGI
+Glenhaven Fine Jewelry Pvt Ltd,171692.52,174934.2,India,Aditya Nair,,2024-08-11,2026-08-19,30,5723.08,3145.08,1277,98.33,5 days,PE,2.00-2.99,F,VVS2,IGI
+Ivory Coast Jewellery Co,170161.3,128380.62,United States,Vikram Desai,Clearview Intermediaries,2024-08-10,2026-08-22,38,4477.93,2802.14,1347,98.2,7 days,OV,1.50-1.99,E,VS1,IGI
+Pinnacle Jewels Co Ltd,168351.41,121846.18,Thailand,Tara Menon,,2024-08-07,2026-07-24,8,21043.93,3205.68,795,98.3,Cash On Delivery,MQ,3.00-4.99,H,VVS2,IGI
+Aurora Gem House LLP,168334.06,151663.84,India,Ananya Iyer,Facet Partners,2024-08-01,2026-08-15,11,15303.1,3059.86,766,98.29,Advance,RB,3.00-4.99,E,VS1,IGI
+Cobalt Creations Co Ltd,166569.47,151233.8,Hong Kong,Sameer Kulkarni,,2024-08-09,2026-07-07,6,27761.58,2921.01,793,98.16,Cash On Delivery,RB,3.00-4.99,E,VVS2,IGI
+Opaline Jewels Inc,165660.31,135867.6,United States,Dev Arora,,2024-11-29,2026-07-28,11,15060.03,3581.26,734,98.22,7 days,ASH,5.00+,D,VVS2,IGI
+Radiant Gems Co,161190.9,141806.68,United States,Aditya Nair,,2024-08-08,2026-08-01,11,14653.72,2957.99,1205,98.56,Cash On Delivery,HT,1.50-1.99,F,VVS2,IGI
+Juniper Gem House Pvt Ltd,160896.3,132143.75,India,Karan Bhatia,Brightline Brokers,2024-08-01,2026-08-06,21,7661.73,2883.45,1222,98.29,Advance,HT,2.00-2.99,E,SI1,IGI
+Halcyon Diamond Traders Inc,156058.16,138230.32,United States,Tara Menon,,2024-08-15,2026-08-21,54,2889.97,2448.28,1121,98.34,Advance,RB,1.50-1.99,E,VS1,IGI
+Moonstone Stones LLC,154503.42,154698.09,United States,Aditya Nair,,2024-08-07,2026-08-21,36,4291.76,2849.19,611,98.31,5 days,RB,5.00+,E,VS1,IGI
+Solstice Diamond Traders Pvt Ltd,152981.05,102017.13,India,Tara Menon,,2024-08-07,2026-07-27,6,25496.84,2610.36,689,98.33,Cash On Delivery,RB,3.00-4.99,E,VVS2,IGI
+Driftwood Gem House Ltd,152511.25,135025.99,Israel,Vikram Desai,,2024-08-10,2026-07-22,17,8971.25,2465.56,1386,98.33,5 days,RB,1.00-1.49,E,VVS2,IGI
+Oakridge Brilliants FZE,152180.55,199702.7,United Arab Emirates,Sameer Kulkarni,Prism Trade Links,2024-08-06,2026-08-16,14,10870.04,2943.13,898,98.21,Cash On Delivery,CU,3.00-4.99,E,SI1,IGI
+Halcyon Stones NV,150672.97,119084.12,Belgium,Sameer Kulkarni,,2024-08-13,2026-08-09,8,18834.12,2785.89,737,98.43,5 days,OV,3.00-4.99,E,VS1,IGI
+Westbrook Brilliants LLP,149351.52,108281.48,India,Sameer Kulkarni,,2024-08-13,2026-08-15,45,3318.92,2683.25,1321,98.35,90 days,CU,1.00-1.49,E,VVS2,IGI
+Ironwood Gems Pvt Ltd,147961.61,148844.6,India,Vikram Desai,,2024-08-13,2026-08-12,26,5690.83,3018.41,560,98.47,30 days,EM,5.00+,G,VVS2,IGI
+Oakridge Diamond Traders Inc,147513.21,114402.58,United States,Rohan Kapoor,,2024-08-18,2026-08-09,13,11347.17,2292.19,1352,98.41,5 days,RB,0.50-0.99,E,VVS2,IGI
+Driftwood Fine Jewelry LLC,147118.44,120913.98,United States,Rohan Kapoor,,2024-08-19,2026-08-10,29,5073.05,2772.44,768,98.19,Cash On Delivery,PE,3.00-4.99,E,VVS2,IGI
+Opaline Creations Co,133914.59,102278.1,United States,Rohan Kapoor,,2024-08-04,2026-07-15,8,16739.32,2308.58,615,98.53,30 days,RB,3.00-4.99,H,VS1,IGI
+Zenith Diamonds Ltd,131469.71,133085.06,United Kingdom,Sameer Kulkarni,,2024-08-12,2026-08-11,29,4533.44,2306.66,651,98.31,Advance,RB,3.00-4.99,H,VS1,IGI
+Northgate Diamond Traders KK,130957.62,70532.34,Japan,Meera Pillai,,2025-02-22,2026-08-14,39,3357.89,2409.17,1188,98.23,Advance,RAD,1.00-1.49,E,VS1,IGI
+Starling Gem House LLC,130170.05,153704.49,United Arab Emirates,Meera Pillai,,2024-08-05,2026-08-15,11,11833.64,2412.94,1088,98.07,Cash On Delivery,MQ,2.00-2.99,F,SI1,IGI
+Amberly Diamond Traders LLP,130115.57,404968.86,India,Vikram Desai,Prism Trade Links,2024-09-04,2025-11-11,7,18587.94,2416.68,421,98.3,Advance,OV,5.00+,D,VVS2,IGI
+Emberly Jewels LLP,129694.94,133434.25,India,Aditya Nair,,2024-08-03,2026-07-31,19,6826.05,2689.64,540,98.48,7 days,MQ,5.00+,E,VVS2,IGI
+Vantage Jewellery LLP,129129.33,67045.09,India,Vikram Desai,,2024-08-16,2026-06-27,5,25825.87,2133.5,863,98.38,5 days,CU,2.00-2.99,F,VS1,IGI
+Bluestone Gem House Pty Ltd,129085.94,109114.74,Australia,Neha Joshi,Clearview Intermediaries,2024-08-03,2026-08-22,32,4033.94,2286.87,1053,98.36,Cash On Delivery,MQ,1.50-1.99,E,VS1,IGI
+Brightwater Brilliants NV,128230.27,199026.76,Belgium,Tara Menon,,2024-08-07,2026-08-10,12,10685.86,2110.07,1246,98.16,Advance,RB,1.00-1.49,G,VVS1,IGI
+Bellcourt Gem House LLC,126023.07,54863.14,United States,Isha Reddy,Atlas Gem Agents,2024-08-08,2026-07-23,6,21003.85,2485.96,836,98.33,Advance,RAD,2.00-2.99,F,VVS2,IGI
+Solstice Brilliants BVBA,125300.14,87851.81,Belgium,Rohan Kapoor,,2024-08-03,2026-08-21,6,20883.36,2349.5,945,98.24,Advance,EM,2.00-2.99,E,VS2,IGI
+Evermore Brilliants Co,124418.3,84529.58,United States,Tara Menon,,2024-08-18,2026-08-08,9,13824.26,2449.29,484,98.43,7 days,CU,5.00+,G,VVS2,IGI
+Willowmere Jewels LLC,124123.28,166326.26,United States,Karan Bhatia,Northstar Agency,2024-08-19,2026-07-30,20,6206.16,2273.44,1418,98.33,Advance,ASH,1.00-1.49,F,VVS1,IGI
+Cobalt Stones Inc,123249.08,19706.72,United States,Aditya Nair,,2025-07-21,2026-08-20,43,2866.26,2300.03,951,98.25,90 days,PR,2.00-2.99,G,VVS2,IGI
+Kingsbury Brilliants Ltd,122783.85,126440.34,Israel,Meera Pillai,Brightline Brokers,2024-08-02,2026-08-12,9,13642.65,2027.15,878,98.15,Advance,RB,2.00-2.99,E,VS2,IGI
+Aurora Jewels LLP,121620.67,175682.45,India,Karan Bhatia,,2024-08-11,2026-08-19,20,6081.03,2107.37,656,98.24,5 days,RB,3.00-4.99,E,VVS1,IGI
+Glenhaven Brilliants LLP,121518.83,122097.88,India,Rohan Kapoor,,2024-08-10,2026-08-14,12,10126.57,2041.08,691,98.4,Cash On Delivery,RB,2.00-2.99,E,SI1,IGI
+Tidewell Creations LLC,120551.49,133659.04,United States,Tara Menon,,2024-08-03,2026-08-06,28,4305.41,2093.62,682,98.24,90 days,RB,3.00-4.99,D,VVS1,IGI
+Pinnacle Fine Jewelry Inc,119674.77,128538.3,United States,Ananya Iyer,Atlas Gem Agents,2024-08-02,2026-04-21,9,13297.2,2210.05,1119,98.34,Advance,CU,1.00-1.49,H,VVS2,IGI
+Quartzline Creations LLP,119613.36,75464.17,India,Meera Pillai,Northstar Agency,2024-08-13,2026-08-19,7,17087.62,2091.81,746,98.3,Advance,OV,2.00-2.99,D,VS1,IGI
+Larkspur Brilliants LLP,117593.42,62595.14,India,Tara Menon,,2024-08-09,2026-07-29,8,14699.18,2022.15,652,98.42,Advance,OV,2.00-2.99,F,VS1,IGI
+Willowmere Jewels Inc,115952.63,78242.26,Canada,Priya Mehta,,2024-08-03,2026-08-12,8,14494.08,1965.55,822,98.26,5 days,EM,2.00-2.99,F,VS1,IGI
+Celestine Stones Ltd,114797.6,6617.54,Israel,Ananya Iyer,Prism Trade Links,2025-08-05,2026-08-19,61,1881.93,2006.02,738,98.27,5 days,OV,2.00-2.99,D,VS1,IGI
+Crestline Jewellery Co Ltd,114414.77,94365.55,Thailand,Isha Reddy,,2024-08-13,2026-08-21,13,8801.14,2020.17,1008,98.53,5 days,EM,1.00-1.49,D,VS1,IGI
+Juniper Brilliants BVBA,113902.68,100299.85,Belgium,Karan Bhatia,Clearview Intermediaries,2024-08-07,2026-07-27,9,12655.85,1861.68,635,98.34,5 days,RB,1.50-1.99,D,VVS2,IGI
+Crestline Gem House LLP,113782.67,121783.81,India,Karan Bhatia,,2024-08-19,2026-08-22,19,5988.56,2113.15,648,98.39,5 days,EM,3.00-4.99,E,VS1,IGI
+Zenith Creations Ltd,112687.92,88781.06,Hong Kong,Ananya Iyer,,2024-08-05,2026-08-16,8,14085.99,1838.73,723,98.22,5 days,OV,2.00-2.99,G,VS1,IGI
+Driftwood Stones Pvt Ltd,109428.96,16720.51,India,Ananya Iyer,,2025-07-29,2026-08-16,19,5759.42,1925.09,1040,98.51,Advance,EM,1.00-1.49,E,VS1,IGI
+Cobalt Stones Ltd,109248.12,60610.56,Hong Kong,Dev Arora,Prism Trade Links,2025-03-30,2026-08-16,16,6828.01,2001.43,1198,98.28,Cash On Delivery,CU,1.00-1.49,E,VS1,IGI
+Foxglove Jewellery NV,108599.53,83583.96,Belgium,Rohan Kapoor,,2024-08-04,2026-08-07,17,6388.21,1913.25,704,98.3,Advance,PE,2.00-2.99,D,VS1,IGI
+Quartzline Gem House LLP,107321.48,129773.5,India,Karan Bhatia,,2024-08-16,2026-07-25,13,8255.5,2112.3,540,98.44,90 days,PE,3.00-4.99,D,VS1,IGI
+Driftwood Jewels Inc,104610.88,24107.53,United States,Sameer Kulkarni,,2025-07-17,2026-07-31,17,6153.58,1849.9,912,98.22,7 days,OV,1.00-1.49,E,VS1,IGI
+Vantage Gem House Co,101619.87,99991.21,United States,Ananya Iyer,,2024-08-14,2026-08-19,15,6774.66,1718.78,518,98.37,7 days,RB,3.00-4.99,E,SI1,IGI
+Ironwood Fine Jewelry LLC,101486.45,80968.52,United States,Tara Menon,,2024-08-16,2026-08-04,14,7249.03,1670.71,648,98.26,5 days,OV,2.00-2.99,F,VS2,IGI
+Meridian Jewellery Ltd,99896.59,73203.37,Hong Kong,Sameer Kulkarni,,2024-08-16,2026-08-22,8,12487.07,1783.58,865,98.34,5 days,MQ,1.00-1.49,E,VS1,IGI
+Meridian Gem House Pvt Ltd,98666.88,96745.97,India,Priya Mehta,,2024-08-03,2026-08-17,23,4289.86,1817.01,665,98.37,30 days,MQ,2.00-2.99,E,VS2,IGI
+Foxglove Jewels LLC,97131.88,133910.18,United Arab Emirates,Dev Arora,,2024-08-17,2026-07-08,6,16188.65,1934.66,489,98.26,Cash On Delivery,RAD,5.00+,F,VS1,IGI
+Westbrook Creations NV,96565,0,Belgium,Isha Reddy,,2025-10-23,2026-07-22,6,16094.17,1707.53,754,98.13,Cash On Delivery,RB,1.00-1.49,F,VS1,IGI
+Juniper Jewellery BVBA,95007.19,235265.76,Belgium,Aditya Nair,,2024-08-10,2025-11-13,11,8637.02,1543.59,656,98.38,7 days,RB,1.00-1.49,G,VS1,IGI
+Starling Brilliants Inc,94572.89,120016.89,United States,Dev Arora,,2024-08-16,2026-03-14,15,6304.86,1737.12,616,98.35,Advance,PR,2.00-2.99,F,VS1,IGI
+Glenhaven Gem House Inc,94015.2,61670.53,United States,Ananya Iyer,Northstar Agency,2024-08-10,2026-08-10,20,4700.76,1660.28,804,98.21,Advance,EM,1.00-1.49,H,VVS2,IGI
+Ironwood Jewellery Co Ltd,93300.74,85802.52,Thailand,Karan Bhatia,,2024-08-07,2026-08-11,36,2591.69,1607.37,443,98.18,30 days,RB,3.00-4.99,E,VS1,IGI
+Amberly Diamond Traders Ltd,93018.85,20935.64,Hong Kong,Neha Joshi,Brightline Brokers,2025-04-09,2026-07-13,7,13288.41,1833.99,472,97.84,Advance,CU,3.00-4.99,D,VVS1,IGI
+Westbrook Jewels FZE,91811.66,346371.17,United Arab Emirates,Tara Menon,,2024-08-17,2025-11-13,4,22952.92,1433.96,553,98.38,5 days,RB,2.00-2.99,G,VVS2,IGI
+Brightwater Gem House Ltd,90814.37,50796.42,Israel,Sameer Kulkarni,,2024-08-17,2026-08-17,6,15135.73,1895.53,468,97.97,Advance,MQ,3.00-4.99,F,VS2,IGI
+Pinnacle Gem House Co Ltd,90728.41,0,Hong Kong,Meera Pillai,,2026-03-25,2026-08-14,12,7560.7,1656.58,683,98.31,5 days,MQ,2.00-2.99,D,VS1,IGI
+Bellcourt Diamonds Ltd,88927.18,78332.55,United Kingdom,Meera Pillai,,2024-08-20,2026-08-07,16,5557.95,1601.94,416,98.22,7 days,RB,3.00-4.99,E,VS2,IGI
+Sapphire Bay Jewellery Co,88552.35,128689.75,United States,Neha Joshi,,2024-08-07,2026-07-18,9,9839.15,1577.9,516,98.49,5 days,PE,3.00-4.99,E,VS1,IGI
+Emberly Diamonds Pvt Ltd,88239.94,19017.97,India,Aditya Nair,,2025-06-30,2026-04-15,15,5882.66,1498.57,434,98.45,Advance,RB,3.00-4.99,F,VVS2,IGI
+Amberly Gems LLP,88101,0,India,Aditya Nair,,2025-11-14,2026-05-30,10,8810.1,1597.01,693,98.22,7 days,RAD,2.00-2.99,H,VS1,IGI
+Lumina Diamond Traders NV,87562.74,0,Belgium,Priya Mehta,,2025-10-18,2026-07-24,9,9729.19,1419.3,728,98.04,Cash On Delivery,OV,1.50-1.99,E,VS1,IGI
+Halcyon Fine Jewelry Co,87350.57,93727,United States,Priya Mehta,,2024-08-17,2026-08-22,27,3235.21,1516.19,987,98.32,7 days,RAD,1.00-1.49,H,VS1,IGI
+Amberly Brilliants Co,86213.58,0,United States,Dev Arora,Prism Trade Links,2025-09-16,2026-08-13,11,7837.6,1342.43,789,98.63,Advance,RB,1.00-1.49,E,VS1,IGI
+Bluestone Brilliants Ltd,84929.43,86696.54,Israel,Rohan Kapoor,,2024-08-09,2026-08-03,9,9436.6,1588.69,595,98.47,Advance,EM,2.00-2.99,F,VVS2,IGI
+Driftwood Fine Jewelry Inc,84825.62,72608.28,Canada,Vikram Desai,,2024-08-06,2026-08-16,60,1413.76,1445.81,393,98.37,Advance,RB,3.00-4.99,E,VS1,IGI
+Cobalt Diamond Traders LLP,83623.25,95583.02,India,Sameer Kulkarni,Northstar Agency,2024-08-04,2026-08-01,7,11946.18,1478.7,834,98.36,Advance,RAD,1.00-1.49,F,VS1,IGI
+Pinnacle Gem House NV,82035.71,66731.03,Belgium,Ananya Iyer,,2024-08-06,2026-06-29,5,16407.14,1515.96,296,98.3,Cash On Delivery,RB,5.00+,E,VVS2,IGI
+Crestline Jewels FZE,81985.19,54559.21,United Arab Emirates,Rohan Kapoor,Northstar Agency,2025-01-30,2026-07-31,11,7453.2,1389.09,380,98.26,Cash On Delivery,RB,3.00-4.99,F,VS1,IGI
+Zenith Creations LLC,81670.55,99913.96,United States,Priya Mehta,Facet Partners,2024-08-08,2026-08-19,6,13611.76,1418.24,567,98.35,Advance,CU,1.50-1.99,F,VVS2,IGI
+Silverleaf Brilliants LLC,78181.34,43321.93,United Arab Emirates,Meera Pillai,,2024-10-02,2026-07-12,5,15636.27,1306.01,328,98.61,Cash On Delivery,RB,3.00-4.99,E,VS2,IGI
+Nobleton Gems LLC,77843.46,87882.41,United Arab Emirates,Vikram Desai,Prism Trade Links,2024-08-17,2026-08-01,8,9730.43,1479.62,394,98.46,5 days,PE,3.00-4.99,E,VVS2,IGI
+Ivory Coast Jewellery Inc,77809.35,0,United States,Priya Mehta,,2025-11-02,2026-08-17,48,1621.03,1424.29,528,98.17,Advance,RAD,2.00-2.99,E,VS2,IGI
+Kingsbury Jewels Ltd,77428.25,98270.3,United Kingdom,Aditya Nair,Atlas Gem Agents,2024-08-17,2026-05-27,14,5530.59,1339.91,523,98.3,5 days,MQ,2.00-2.99,D,VS1,IGI
+Bluestone Gems Co Ltd,77367.48,6444.59,Hong Kong,Isha Reddy,,2025-08-03,2026-08-17,52,1487.84,1347.3,823,98.43,Advance,EM,1.00-1.49,F,VS2,IGI
+Driftwood Gems Co,77363.53,75729.54,United States,Priya Mehta,,2024-08-07,2026-07-11,8,9670.44,1401.52,750,98.15,60 days,PE,1.00-1.49,F,VS1,IGI
+Solstice Gems Co,77027.95,84488.19,United States,Vikram Desai,,2024-08-09,2026-08-12,32,2407.12,1410.42,820,98.47,Cash On Delivery,RAD,1.00-1.49,G,VS1,IGI
+Northgate Jewels BVBA,75855.79,0,Belgium,Dev Arora,,2026-05-15,2026-08-16,12,6321.32,1426.94,250,98.35,7 days,RB,5.00+,E,VVS2,IGI
+Harbourline Jewels Inc,75518.69,42023.49,Canada,Dev Arora,,2024-09-23,2026-08-12,6,12586.45,1306.6,746,98.3,5 days,MQ,1.00-1.49,F,VVS2,IGI
+Willowmere Gem House Inc,75478.08,51121.89,Canada,Karan Bhatia,Northstar Agency,2024-08-19,2026-07-14,10,7547.81,1194.65,518,98.49,Advance,RB,1.50-1.99,G,VS2,IGI
+Opaline Stones FZE,75227.91,71052.19,United Arab Emirates,Vikram Desai,Atlas Gem Agents,2024-08-03,2026-07-31,8,9403.49,1307.57,768,98.27,5 days,OV,1.00-1.49,G,SI1,IGI
+Opaline Diamonds LLC,74779.52,76511.08,United Arab Emirates,Sameer Kulkarni,Northstar Agency,2024-08-04,2026-08-10,15,4985.3,1388.78,429,98.2,Advance,MQ,3.00-4.99,F,VVS2,IGI
+Crestline Creations LLP,74728.23,83430.77,India,Rohan Kapoor,,2024-08-13,2026-08-19,21,3558.49,1372.84,382,98.31,Advance,OV,3.00-4.99,G,VS1,IGI
+Westbrook Jewellery Ltd,74448.13,70021.82,Hong Kong,Aditya Nair,,2024-08-11,2026-08-14,29,2567.18,1279.92,362,98.37,5 days,RB,3.00-4.99,E,VS1,IGI
+Cobalt Brilliants Pvt Ltd,74407.45,76230.5,India,Ananya Iyer,,2024-08-15,2026-08-16,36,2066.87,1365.19,389,98.41,5 days,OV,3.00-4.99,D,VVS2,IGI
+Cobalt Brilliants NV,74379.12,68998.83,Belgium,Sameer Kulkarni,,2024-08-11,2026-08-07,13,5721.47,1422.99,378,98.25,Cash On Delivery,MQ,3.00-4.99,D,VS1,IGI
+Northgate Fine Jewelry Inc,74255.53,127528.03,United States,Meera Pillai,,2024-08-05,2026-01-29,8,9281.94,1621.82,343,98.36,60 days,EM,5.00+,E,VS1,IGI
+Ironwood Diamonds Co,74103.69,63049.54,United States,Tara Menon,Prism Trade Links,2024-08-18,2026-08-01,10,7410.37,1380.7,410,98.32,5 days,PE,3.00-4.99,G,VS1,IGI
+Willowmere Diamonds Co,73951.96,0,United States,Aditya Nair,Atlas Gem Agents,2026-01-30,2026-08-17,6,12325.33,1238.92,293,98.28,30 days,RB,3.00-4.99,E,VS1,IGI
+Ivory Coast Creations Co,73935.49,44334.22,United States,Meera Pillai,Prism Trade Links,2024-08-07,2026-07-27,9,8215.05,1271.38,776,98.2,Advance,OV,1.00-1.49,E,VS2,IGI
+Celestine Jewels Co,73860.03,57002.86,United States,Aditya Nair,,2024-08-11,2026-08-08,12,6155,1265.25,1133,98.08,30 days,MQ,0.50-0.99,F,VVS2,IGI
+Celestine Jewels Inc,73432.19,95861.34,United States,Meera Pillai,,2024-08-13,2026-07-13,5,14686.44,1149.55,473,98.34,30 days,RB,2.00-2.99,D,VVS1,IGI
+Pinnacle Gem House LLC,73128.03,40986.53,United States,Vikram Desai,,2024-08-15,2026-07-31,6,12188.01,1258.03,546,98.48,Advance,PE,2.00-2.99,E,SI1,IGI
+Halcyon Diamonds LLC,72184.34,8142.85,United Arab Emirates,Ananya Iyer,,2025-06-19,2026-06-19,8,9023.04,1301.45,601,98.74,30 days,ASH,1.50-1.99,E,VVS1,IGI
+Quartzline Gems LLC,71159.94,60383.21,United States,Neha Joshi,,2024-08-01,2026-07-08,6,11859.99,1099.08,442,98.13,Cash On Delivery,RB,2.00-2.99,E,VVS2,IGI
+Driftwood Diamond Traders Inc,71070.38,107607.72,Canada,Vikram Desai,,2024-08-14,2026-04-19,30,2369.01,1313.62,501,98.48,60 days,HT,2.00-2.99,E,VS1,IGI
+Halcyon Jewellery Pvt Ltd,71024.97,59808.63,India,Karan Bhatia,,2024-08-02,2026-08-18,60,1183.75,1258.8,659,98.32,Cash On Delivery,EM,1.00-1.49,H,VVS2,IGI
+Ivory Coast Diamond Traders Ltd,70744.43,71395.87,United Kingdom,Sameer Kulkarni,,2024-08-06,2026-08-08,12,5895.37,1222.89,353,98.24,Advance,RB,3.00-4.99,D,VVS2,IGI
+Radiant Brilliants Co,69466.05,52244.46,United States,Aditya Nair,Brightline Brokers,2024-08-04,2026-08-17,36,1929.61,1210.49,460,98.42,7 days,EM,2.00-2.99,D,VVS2,IGI
+Ironwood Gems Co,69094.7,0,United States,Meera Pillai,,2026-02-11,2026-07-31,8,8636.84,1173.41,579,98.52,30 days,OV,1.50-1.99,E,VS1,IGI
+Foxglove Diamond Traders NV,69078.95,72605.96,Belgium,Karan Bhatia,,2024-08-03,2026-08-21,27,2558.48,1258.52,492,98.35,Cash On Delivery,RAD,2.00-2.99,H,VS1,IGI
+Emberly Stones LLC,68731.64,81292.17,United States,Aditya Nair,,2024-08-04,2026-06-01,14,4909.4,1298.34,240,98.34,Advance,RB,5.00+,G,VVS2,IGI
+Nobleton Stones Pvt Ltd,68632.11,78985.65,India,Sameer Kulkarni,,2024-08-06,2026-07-17,11,6239.28,1128.42,483,98.38,7 days,RB,2.00-2.99,E,VS1,IGI
+Halcyon Brilliants Pvt Ltd,68525.94,55489.61,India,Vikram Desai,,2024-08-01,2026-07-12,10,6852.59,1224.75,490,98.41,Advance,PE,2.00-2.99,E,VS1,IGI
+Solstice Diamonds FZE,67737.58,23671.34,United Arab Emirates,Karan Bhatia,,2025-03-04,2026-07-09,6,11289.6,1169.27,624,98.12,30 days,MQ,1.00-1.49,G,VVS2,IGI
+Oakridge Stones LLP,67667,55057.93,India,Ananya Iyer,Atlas Gem Agents,2024-11-26,2026-08-20,28,2416.68,1200.36,744,98.29,90 days,RAD,1.00-1.49,E,VVS2,IGI
+Northgate Diamond Traders NV,67555.91,8895.54,Belgium,Aditya Nair,,2025-06-14,2026-07-16,7,9650.84,1194.63,466,98.37,Cash On Delivery,PR,1.50-1.99,H,VVS1,IGI
+Aurora Diamonds Pty Ltd,66806.38,28807.62,Australia,Rohan Kapoor,,2024-12-16,2026-07-21,11,6073.31,1220.36,717,98.31,5 days,ASH,1.00-1.49,H,VS1,IGI
+Willowmere Gem House LLC,66654.93,0,United States,Dev Arora,,2026-06-16,2026-08-14,5,13330.99,1269.67,411,98.43,30 days,PE,3.00-4.99,E,VS1,IGI
+Lumina Fine Jewelry Ltd,65777.57,61286.05,Hong Kong,Dev Arora,,2024-08-13,2026-07-02,6,10962.93,1305.86,282,98.31,7 days,MQ,5.00+,H,VS1,IGI
+Ivory Coast Stones LLP,65645.28,39365.9,India,Priya Mehta,,2024-08-18,2026-08-08,17,3861.49,1261.24,499,98.49,Advance,HT,1.00-1.49,D,VS1,IGI
+Sapphire Bay Diamonds Ltd,63370.85,56414.33,United Kingdom,Dev Arora,,2024-08-15,2026-08-20,23,2755.25,1075.72,411,98.26,5 days,RB,2.00-2.99,D,VVS2,IGI
+Glenhaven Jewels Pvt Ltd,63201.6,66916.37,India,Ananya Iyer,,2024-08-09,2026-07-29,13,4861.66,1077.9,435,98.4,7 days,OV,2.00-2.99,F,VS1,IGI
+Bluestone Gem House Ltd,61627.37,53099.56,Hong Kong,Tara Menon,,2025-01-07,2026-08-20,8,7703.42,978.99,522,98.47,30 days,RB,1.00-1.49,E,SI1,IGI
+Foxglove Gem House Co,61193.9,0,United States,Tara Menon,,2025-12-23,2026-08-18,7,8741.99,1167.29,515,98.23,Advance,EM,1.00-1.49,F,VS1,IGI
+Sapphire Bay Gem House Co Ltd,60761.71,83683.14,Hong Kong,Meera Pillai,,2024-08-04,2026-05-06,36,1687.83,1142.79,577,98.43,60 days,HT,1.00-1.49,E,VS1,IGI
+Foxglove Diamond Traders Co,60480.19,58495.52,United States,Vikram Desai,,2024-08-06,2026-08-12,25,2419.21,1188.11,353,98.38,7 days,CU,3.00-4.99,G,VVS2,IGI
+Meridian Diamond Traders LLP,60416.19,82713.43,India,Tara Menon,Clearview Intermediaries,2024-08-04,2026-08-05,13,4647.4,1147.47,311,98.33,Cash On Delivery,MQ,3.00-4.99,D,VS1,IGI
+Harbourline Creations Pvt Ltd,60265.47,27402.96,India,Tara Menon,,2024-08-05,2026-08-07,5,12053.09,1102.05,280,98.45,7 days,RB,2.00-2.99,E,VS1,IGI
+Opaline Gem House LLC,60029.7,41445,United States,Karan Bhatia,,2024-08-19,2026-07-06,4,15007.43,1074.28,472,98.64,7 days,RAD,2.00-2.99,E,VS1,IGI
+Starling Creations LLC,59840.08,32472.78,United States,Sameer Kulkarni,Prism Trade Links,2025-01-31,2026-08-06,12,4986.67,949.17,417,98.18,7 days,RB,1.50-1.99,E,VVS2,IGI
+Moonstone Stones LLP,58816.7,42719.48,India,Neha Joshi,Brightline Brokers,2024-08-19,2026-08-20,22,2673.49,1068.63,592,98.44,5 days,MQ,1.00-1.49,E,VVS2,IGI
+Lumina Stones Co,57517.52,53038.67,United States,Aditya Nair,,2024-08-04,2026-08-12,8,7189.69,1010.23,733,98.45,7 days,PE,1.00-1.49,F,VVS2,IGI
+Kingsbury Stones Ltd,57322.13,79342.63,Hong Kong,Karan Bhatia,,2024-08-17,2026-07-14,7,8188.88,1072.38,296,98.47,7 days,OV,3.00-4.99,E,VS1,IGI
+Emberly Fine Jewelry LLC,57056.88,31157.74,United States,Sameer Kulkarni,,2024-08-01,2026-08-20,6,9509.48,981.75,456,98.38,Cash On Delivery,MQ,2.00-2.99,E,VS1,IGI
+Lumina Gem House Pvt Ltd,56865.08,57357.47,India,Sameer Kulkarni,,2024-11-02,2026-08-19,25,2274.6,965.75,654,98.29,Cash On Delivery,OV,1.00-1.49,F,VVS2,IGI
+Sapphire Bay Gems Co,56862.15,0,United States,Aditya Nair,,2026-03-09,2026-07-31,7,8123.16,883.27,529,97.76,Cash On Delivery,RB,5.00+,E,VS1,IGI
+Tidewell Jewellery LLP,56642.73,30082.19,India,Aditya Nair,Northstar Agency,2024-08-02,2026-07-18,7,8091.82,919.65,316,98.53,Cash On Delivery,RB,2.00-2.99,F,VS2,IGI
+Lumina Diamonds Co,56556.99,61039.47,United States,Priya Mehta,,2024-08-14,2026-08-16,30,1885.23,992.93,418,98.4,Cash On Delivery,PE,1.50-1.99,D,VS2,IGI
+Moonstone Fine Jewelry LLP,56250.39,69774.78,India,Tara Menon,Prism Trade Links,2024-08-04,2026-03-19,8,7031.3,930.74,367,98.36,Cash On Delivery,OV,2.00-2.99,E,VS1,IGI
+Radiant Brilliants LLP,55886.69,56075.15,India,Vikram Desai,,2024-08-18,2026-07-20,11,5080.61,961.4,512,98.49,Cash On Delivery,EM,1.50-1.99,F,VS1,IGI
+Oakridge Creations Inc,55614.09,56304.26,United States,Isha Reddy,,2025-04-08,2026-02-07,4,13903.52,871.34,298,98.12,7 days,RB,2.00-2.99,E,VS1,IGI
+Silverleaf Jewels LLC,55571.09,49167.19,United Arab Emirates,Tara Menon,Atlas Gem Agents,2024-08-14,2026-06-26,7,7938.73,991.59,389,98.08,5 days,RB,2.00-2.99,F,VVS2,IGI
+Sapphire Bay Gem House Pvt Ltd,55302.61,49102.56,India,Sameer Kulkarni,,2024-08-11,2026-08-02,8,6912.83,929.57,376,98.13,5 days,MQ,2.00-2.99,E,VVS2,IGI
+Meridian Stones Pvt Ltd,55035.29,30067.57,India,Meera Pillai,,2024-08-04,2026-07-16,8,6879.41,1043.48,261,98.44,90 days,EM,3.00-4.99,D,VVS2,IGI
+Ironwood Creations LLP,54269.34,47687.45,India,Neha Joshi,,2024-08-11,2026-08-21,6,9044.89,899.13,500,98.46,Advance,RB,1.00-1.49,E,VVS2,IGI
+Willowmere Fine Jewelry LLP,54253.26,53527.14,India,Dev Arora,,2024-08-19,2026-08-06,19,2855.43,941.07,349,98.38,Advance,RB,2.00-2.99,F,SI1,IGI
+Pinnacle Diamond Traders LLC,54165.52,51253.6,United Arab Emirates,Neha Joshi,,2024-08-02,2026-08-10,16,3385.35,940.37,264,98.43,Advance,OV,3.00-4.99,E,VS1,IGI
+Solstice Brilliants Co,53800.71,46793.97,United States,Rohan Kapoor,,2024-08-06,2026-08-20,15,3586.71,990.86,400,98.16,Cash On Delivery,HT,2.00-2.99,D,VS1,IGI
+Silverleaf Jewels Ltd,52991.65,31896.71,Hong Kong,Neha Joshi,,2024-08-17,2026-07-19,12,4415.97,1056.33,275,98.4,Advance,PR,3.00-4.99,E,VVS2,IGI
+Harbourline Jewellery Pty Ltd,52863.77,123356.6,Australia,Dev Arora,,2024-08-08,2025-12-06,3,17621.26,853.98,214,98.1,30 days,RB,3.00-4.99,E,VS1,IGI
+Tidewell Gems LLP,52532.25,38654.59,India,Aditya Nair,Northstar Agency,2024-08-15,2026-08-12,9,5836.92,927.48,288,98.29,Cash On Delivery,RB,2.00-2.99,D,VS1,IGI
+Tidewell Diamond Traders LLC,52233.73,37055.2,United States,Aditya Nair,Brightline Brokers,2024-08-10,2026-08-11,47,1111.36,905.63,496,98.31,Cash On Delivery,OV,1.00-1.49,F,VS1,IGI
+Pinnacle Gems NV,51876.01,67548.69,Belgium,Rohan Kapoor,,2024-08-10,2026-07-22,12,4323,874.42,433,98.28,5 days,OV,1.50-1.99,E,VS1,IGI
+Starling Jewels NV,51521.98,0,Belgium,Meera Pillai,Brightline Brokers,2025-10-21,2026-08-05,9,5724.66,936.19,356,98.2,Cash On Delivery,PE,2.00-2.99,D,VS2,IGI
+Bellcourt Gem House Pvt Ltd,50465.65,77194.68,India,Dev Arora,Prism Trade Links,2024-08-02,2026-05-01,20,2523.28,900,437,98.19,Cash On Delivery,RAD,1.50-1.99,F,VS1,IGI
+Northgate Diamond Traders FZE,49883.08,48791.98,United Arab Emirates,Ananya Iyer,,2024-08-13,2026-08-15,15,3325.54,883.22,362,98.35,Advance,RAD,2.00-2.99,F,VVS2,IGI
+Amberly Gems Pvt Ltd,49403.83,14115.86,India,Ananya Iyer,,2025-05-25,2026-08-14,7,7057.69,876.54,358,98.5,Advance,PE,2.00-2.99,E,VS1,IGI
+Westbrook Stones Co Ltd,49369.96,50872.37,Hong Kong,Vikram Desai,,2024-08-14,2026-08-13,17,2904.12,810.96,318,98.43,7 days,RB,2.00-2.99,E,VS1,IGI
+Silverleaf Jewellery Pvt Ltd,49176.75,46972.89,India,Dev Arora,,2024-08-09,2026-07-12,10,4917.68,892.67,300,98.53,Cash On Delivery,ASH,2.00-2.99,E,VVS2,IGI
+Cobalt Diamonds Ltd,48915.77,46997.12,United Kingdom,Ananya Iyer,,2024-08-10,2026-08-05,6,8152.63,850.79,356,98.23,Cash On Delivery,OV,2.00-2.99,E,VS2,IGI
+Moonstone Creations Co Ltd,48734.89,46327.45,China,Meera Pillai,Prism Trade Links,2024-08-07,2026-08-14,16,3045.93,912.98,263,98.41,Advance,ASH,3.00-4.99,E,VS1,IGI
+Starling Fine Jewelry Inc,48244.91,42291.92,United States,Neha Joshi,,2024-08-13,2026-08-20,36,1340.14,897.69,176,98.41,5 days,RB,5.00+,E,VVS1,IGI
+Sapphire Bay Stones Co Ltd,47824.25,0,Hong Kong,Isha Reddy,,2025-08-24,2026-08-16,48,996.34,878.55,339,98.25,5 days,ASH,2.00-2.99,E,VS2,IGI
+Willowmere Gem House BVBA,47391.72,69305.3,Belgium,Karan Bhatia,,2024-08-16,2026-08-11,12,3949.31,825.15,356,98.39,Cash On Delivery,PE,2.00-2.99,F,VVS2,IGI
+Sapphire Bay Creations Pvt Ltd,47367.64,172189.37,India,Sameer Kulkarni,,2024-12-16,2025-10-22,3,15789.21,880.95,206,98.27,Cash On Delivery,RB,3.00-4.99,E,VS1,IGI
+Northgate Diamond Traders Pvt Ltd,47290.45,34368.6,India,Aditya Nair,,2024-08-04,2026-08-12,15,3152.7,738.36,316,98.19,Advance,RB,1.50-1.99,E,VS1,IGI
+Harbourline Stones LLP,47129.5,0,India,Vikram Desai,Prism Trade Links,2025-12-23,2026-08-17,6,7854.92,780.78,195,98.18,Advance,RB,5.00+,E,VVS2,IGI
+Amberly Brilliants LLC,47000.07,47116.6,United States,Ananya Iyer,,2024-08-25,2026-08-06,14,3357.15,890.96,231,98.32,Advance,PE,3.00-4.99,F,SI1,IGI
+Kingsbury Gems LLP,46808.52,39097.04,India,Rohan Kapoor,,2024-08-16,2026-07-30,6,7801.42,766.06,594,97.98,5 days,RB,1.00-1.49,E,VVS2,IGI
+Celestine Fine Jewelry Pvt Ltd,46058.13,8423.42,India,Meera Pillai,Atlas Gem Agents,2025-08-19,2026-06-28,6,7676.36,800.41,234,97.99,7 days,RB,3.00-4.99,E,VVS1,IGI
+Glenhaven Fine Jewelry FZE,45921.95,53025.7,United Arab Emirates,Meera Pillai,,2024-08-14,2026-08-15,22,2087.36,887.77,452,98.4,Advance,PE,1.00-1.49,D,VVS2,IGI
+Nobleton Gems Co,45750.92,19183.27,United States,Isha Reddy,,2024-08-15,2026-07-24,6,7625.15,754.42,234,98.31,5 days,RB,2.00-2.99,E,VS1,IGI
+Vantage Fine Jewelry Co,45698.19,43474.09,United States,Karan Bhatia,,2024-08-03,2026-07-27,5,9139.64,865.27,341,97.98,7 days,RAD,2.00-2.99,F,VVS2,IGI
+Amberly Jewels LLC,45160.24,39922.99,United States,Vikram Desai,,2024-11-04,2026-07-21,8,5645.03,758.94,241,98.24,Cash On Delivery,RB,2.00-2.99,F,VS1,IGI
+Westbrook Jewellery LLC,44763.39,46043.31,United States,Ananya Iyer,,2024-08-09,2026-08-06,9,4973.71,777.61,221,98.23,Advance,RB,3.00-4.99,D,VS1,IGI
+Silverleaf Stones Co Ltd,44423.76,23909.65,Hong Kong,Tara Menon,,2024-11-12,2026-07-23,14,3173.13,648.04,457,98.23,Cash On Delivery,RB,3.00-4.99,E,VS1,IGI
+Starling Gem House Co Ltd,44219.35,31475.24,Hong Kong,Neha Joshi,,2024-08-14,2026-08-13,20,2210.97,801.69,247,98.35,Advance,OV,3.00-4.99,F,VVS1,IGI
+Emberly Gems Inc,44171.78,43147.11,United States,Tara Menon,,2024-08-01,2026-08-12,10,4417.18,731.46,218,98.23,Advance,RB,3.00-4.99,E,SI1,IGI
+Emberly Jewels Inc,43835.99,40741,United States,Ananya Iyer,Clearview Intermediaries,2024-08-10,2026-08-03,9,4870.67,887.23,175,98.51,7 days,RB,5.00+,E,VVS2,IGI
+Evermore Fine Jewelry Co Ltd,43700.87,41989.58,Hong Kong,Sameer Kulkarni,,2024-08-11,2026-06-18,6,7283.48,830.58,200,98.54,Cash On Delivery,MQ,3.00-4.99,E,VVS2,IGI
+Glenhaven Diamond Traders Pvt Ltd,43521.97,9272.57,India,Aditya Nair,Facet Partners,2025-08-21,2026-08-14,7,6217.42,845.56,328,98.34,5 days,ASH,2.00-2.99,E,VS1,IGI
+Crestline Diamonds Pvt Ltd,43116.64,42036.79,India,Rohan Kapoor,,2024-08-06,2026-08-15,42,1026.59,810.84,312,98.35,Advance,HT,2.00-2.99,E,SI1,IGI
+Ironwood Jewellery Co,43042.94,0,United States,Sameer Kulkarni,,2026-02-10,2026-07-05,4,10760.74,673.65,265,97.76,5 days,RB,2.00-2.99,E,VS1,IGI
+Celestine Fine Jewelry LLC,42849.77,37043.86,United States,Rohan Kapoor,,2024-08-02,2026-08-06,14,3060.7,634.58,522,98.34,7 days,RB,0.50-0.99,F,VVS2,IGI
+Evermore Gem House LLP,42283.71,39526.75,India,Ananya Iyer,Atlas Gem Agents,2024-08-13,2026-08-08,12,3523.64,796.83,480,98.16,Advance,HT,1.00-1.49,F,VS1,IGI
+Meridian Diamonds FZE,42064.15,44322.05,United Arab Emirates,Sameer Kulkarni,,2024-08-04,2026-08-11,19,2213.9,746.35,454,98.37,60 days,EM,1.00-1.49,E,VS2,IGI
+Nobleton Fine Jewelry LLC,41894.44,74176.81,United States,Isha Reddy,,2024-09-06,2026-05-25,5,8378.89,760.18,305,98.31,Advance,PE,2.00-2.99,E,VVS2,IGI
+Halcyon Jewels Pvt Ltd,41694.65,42099.15,India,Neha Joshi,,2024-08-18,2026-08-20,23,1812.81,799.93,294,98.46,Advance,MQ,2.00-2.99,F,VS1,IGI
+Quartzline Fine Jewelry Inc,41302.93,52314.43,United States,Meera Pillai,,2024-08-08,2026-07-09,6,6883.82,760.1,538,98.2,7 days,RAD,1.00-1.49,F,VS1,IGI
+Silverleaf Gem House Inc,39946.66,21344.35,United States,Aditya Nair,,2024-08-08,2026-07-27,15,2663.11,657.63,262,98.4,Cash On Delivery,OV,2.00-2.99,G,VS1,IGI
+Foxglove Creations Inc,39580.67,20141.36,Canada,Priya Mehta,,2024-08-12,2026-08-19,22,1799.12,744.38,272,98.34,5 days,MQ,2.00-2.99,D,VS2,IGI
+Rosewood Fine Jewelry LLP,39146.07,31544.57,India,Vikram Desai,,2024-08-16,2026-07-26,9,4349.56,699.39,188,97.92,7 days,EM,3.00-4.99,D,VVS2,IGI
+Nobleton Stones Co Ltd,38921.56,33850.37,Hong Kong,Dev Arora,,2024-08-13,2026-08-09,23,1692.24,747.48,201,98.32,Cash On Delivery,RAD,3.00-4.99,E,VVS2,IGI
+Zenith Brilliants Co Ltd,38885.42,21684.37,Hong Kong,Ananya Iyer,Clearview Intermediaries,2024-08-10,2026-08-05,8,4860.68,624.91,223,98.58,7 days,RB,2.00-2.99,F,VS1,IGI
+Northgate Diamonds LLC,38794.34,25981.21,United States,Neha Joshi,Brightline Brokers,2024-08-19,2026-07-21,9,4310.48,729.22,208,98.47,Advance,HT,3.00-4.99,F,VVS2,IGI
+Bellcourt Jewels Co,38736.61,28031.5,United States,Tara Menon,Northstar Agency,2024-08-02,2026-08-20,17,2278.62,612.44,332,98.41,Cash On Delivery,RB,1.00-1.49,F,VVS2,IGI
+Crestline Brilliants Inc,38497.56,31599.15,United States,Aditya Nair,,2024-12-11,2026-08-12,28,1374.91,664.78,192,98.4,Advance,RB,3.00-4.99,F,VS1,IGI
+Aurora Fine Jewelry LLC,38464.29,56392.7,United States,Aditya Nair,Facet Partners,2024-08-19,2026-04-03,7,5494.9,623.21,191,98.3,5 days,RB,2.00-2.99,F,VS1,IGI
+Moonstone Diamond Traders Co Ltd,38392.29,20482.22,China,Vikram Desai,,2024-08-14,2026-07-24,8,4799.04,644.99,250,98.4,Advance,OV,2.00-2.99,E,VS2,IGI
+Celestine Jewels LLC,38194.36,34009.85,United States,Sameer Kulkarni,,2024-08-19,2026-08-11,10,3819.44,635.29,385,98.48,Advance,RB,1.00-1.49,E,VVS1,IGI
+Evermore Gems LLC,38068.64,30877.79,United States,Karan Bhatia,,2024-08-18,2026-07-09,6,6344.77,670.48,331,98.15,30 days,EM,2.00-2.99,D,VVS2,IGI
+Westbrook Jewellery Inc,38054.17,23532.54,United States,Sameer Kulkarni,,2024-12-24,2026-08-03,8,4756.77,694.57,354,98.4,Cash On Delivery,CU,1.00-1.49,D,VS1,IGI
+Northgate Gems Inc,37870.42,43803.96,Canada,Aditya Nair,,2024-08-13,2026-07-31,10,3787.04,649.6,336,98.36,7 days,OV,1.00-1.49,F,VS1,IGI
+Driftwood Jewels LLP,37482.48,41144.53,India,Dev Arora,,2024-08-04,2026-08-22,37,1013.04,712.33,207,98.38,5 days,RAD,3.00-4.99,H,VVS2,IGI
+Willowmere Fine Jewelry Inc,37059.84,78218.71,United States,Rohan Kapoor,Northstar Agency,2024-08-08,2025-11-08,5,7411.97,650.28,179,98.42,7 days,RAD,2.00-2.99,F,VS2,IGI
+Opaline Gems LLC,36750.29,0,United States,Priya Mehta,Atlas Gem Agents,2026-06-29,2026-08-15,4,9187.57,629.55,297,98.03,5 days,MQ,1.00-1.49,E,VS2,IGI
+Driftwood Brilliants FZE,36669.85,39974.96,United Arab Emirates,Vikram Desai,Brightline Brokers,2024-08-06,2026-08-15,17,2157.05,647.77,170,98.33,Advance,RB,3.00-4.99,E,VVS1,IGI
+Moonstone Creations Inc,36053.47,30424.27,Canada,Isha Reddy,,2024-08-07,2026-08-13,36,1001.49,634.01,251,98.35,7 days,RAD,2.00-2.99,D,VS1,IGI
+Juniper Jewels Pty Ltd,36020.51,29509.19,Australia,Aditya Nair,Clearview Intermediaries,2024-08-02,2026-08-17,9,4002.28,638,187,98.37,Cash On Delivery,OV,3.00-4.99,G,SI1,IGI
+Solstice Diamonds Co,35720.48,22069.61,United States,Tara Menon,,2024-08-18,2026-08-22,8,4465.06,635.76,237,98.31,Cash On Delivery,RAD,2.00-2.99,E,VVS2,IGI
+Moonstone Diamond Traders LLC,35581.09,20618.11,United States,Dev Arora,,2024-08-16,2026-07-22,6,5930.18,703.8,124,98.38,7 days,OV,5.00+,F,VS1,IGI
+Zenith Brilliants LLC,35573.02,30924.41,United States,Dev Arora,,2024-08-15,2026-08-14,48,741.1,590.24,228,98.39,Cash On Delivery,RB,2.00-2.99,F,SI1,IGI
+Juniper Stones Co Ltd,35177.98,23605.1,Hong Kong,Isha Reddy,,2025-03-19,2026-07-17,9,3908.66,570.19,239,98.17,60 days,RB,2.00-2.99,D,VS2,IGI
+Glenhaven Jewels LLC,35160.08,84410.16,United States,Isha Reddy,,2024-08-03,2026-02-18,5,7032.02,604.76,161,98.38,60 days,RB,3.00-4.99,H,VS1,IGI
+Brightwater Jewels Co Ltd,34859.48,35879.29,China,Karan Bhatia,,2024-08-13,2026-08-05,10,3485.95,726.73,196,98.15,Cash On Delivery,HT,3.00-4.99,E,VS1,IGI
+Northgate Jewellery Pvt Ltd,34744.69,26967.11,India,Vikram Desai,,2024-08-06,2026-07-17,8,4343.09,549.66,213,98.24,5 days,RB,2.00-2.99,G,VVS1,IGI
+Glenhaven Jewellery Ltd,34607.85,30191.49,Hong Kong,Priya Mehta,,2024-08-10,2026-07-20,5,6921.57,734.93,143,98.39,30 days,OV,5.00+,F,SI1,IGI
+Westbrook Diamond Traders NV,34379.74,19572.93,Belgium,Tara Menon,,2024-10-26,2026-08-20,11,3331.04,559.1,230,98.33,Advance,RB,2.00-2.99,E,VVS2,IGI
+Evermore Diamond Traders LLC,34056.42,30469.27,United Arab Emirates,Meera Pillai,Prism Trade Links,2024-08-13,2026-08-03,7,4865.2,725.6,202,98.32,5 days,HT,3.00-4.99,D,VVS2,IGI
+Opaline Brilliants LLP,34012.63,6898.28,India,Aditya Nair,,2025-01-15,2026-06-29,6,5668.77,598.51,430,98.08,5 days,RAD,0.50-0.99,E,VVS2,IGI
+Lumina Brilliants NV,33723.08,30969.39,Belgium,Meera Pillai,,2024-08-15,2026-08-15,17,1983.71,651.28,177,98.29,5 days,PE,3.00-4.99,E,VVS2,IGI
+Starling Jewels Co,33432.84,47447.05,United States,Dev Arora,,2024-08-14,2026-07-09,5,6686.57,611.68,244,98.15,5 days,PE,5.00+,D,VVS2,IGI
+Bluestone Brilliants LLC,33050.53,71838.13,United States,Meera Pillai,,2024-08-01,2026-03-23,24,1377.11,586.32,310,98.3,5 days,CU,1.50-1.99,D,VS2,IGI
+Emberly Jewels BVBA,32607.76,28107.52,Belgium,Sameer Kulkarni,,2024-08-04,2026-08-08,11,2964.34,529,380,98.32,7 days,OV,1.00-1.49,F,VVS2,IGI
+Bellcourt Gems Pvt Ltd,32109.69,36429.22,India,Isha Reddy,,2024-08-12,2026-08-13,13,2469.98,551.1,357,98.24,7 days,EM,1.00-1.49,D,VS1,IGI
+Brightwater Gem House Pvt Ltd,31853.16,74892.21,India,Isha Reddy,,2024-08-02,2026-05-07,4,7963.29,540.31,432,98.5,Advance,RAD,1.00-1.49,D,VS1,IGI
+Opaline Gem House LLP,31819.08,23504.67,India,Priya Mehta,,2024-08-10,2026-08-16,7,4545.58,509.51,192,98.41,5 days,RB,2.00-2.99,D,SI1,IGI
+Zenith Stones NV,31458.68,61485.61,Belgium,Tara Menon,Clearview Intermediaries,2024-08-16,2026-04-23,13,2419.9,559.48,215,98.26,Cash On Delivery,EM,2.00-2.99,E,VVS2,IGI
+Amberly Diamond Traders Pvt Ltd,31169.8,26848.59,India,Karan Bhatia,Brightline Brokers,2024-08-05,2026-08-12,9,3463.31,535.71,227,98.13,Advance,EM,2.00-2.99,G,VS1,IGI
+Evermore Gem House Pty Ltd,31088.61,30891.85,Australia,Dev Arora,,2024-08-18,2026-08-09,33,942.08,598.79,226,98.42,Cash On Delivery,PR,2.00-2.99,E,VVS2,IGI
+Bellcourt Jewellery LLP,31086.37,28355.61,India,Isha Reddy,,2024-08-03,2026-08-18,27,1151.35,523.5,214,98.22,5 days,OV,2.00-2.99,E,VVS1,IGI
+Larkspur Jewels LLP,30638.33,13923.54,India,Tara Menon,Atlas Gem Agents,2025-01-16,2026-07-09,6,5106.39,507.16,246,98.18,Advance,RB,1.50-1.99,E,VS1,IGI
+Silverleaf Diamonds LLP,30442.29,43833.63,India,Vikram Desai,,2024-08-06,2026-07-21,11,2767.48,511.19,446,98.1,60 days,RAD,0.50-0.99,E,VS2,IGI
+Northgate Creations Inc,30310.13,23878.21,United States,Dev Arora,Prism Trade Links,2024-08-12,2026-08-09,6,5051.69,562.84,254,98.43,5 days,HT,1.50-1.99,E,VS1,IGI
+Sapphire Bay Creations Inc,30109,23453.85,United States,Dev Arora,,2024-08-06,2026-08-22,53,568.09,537.22,345,98.27,Cash On Delivery,HT,1.00-1.49,G,VS1,IGI
+Solstice Stones FZE,29873.65,26788.73,United Arab Emirates,Dev Arora,,2025-01-12,2026-08-10,6,4978.94,519.51,132,98.61,Advance,OV,3.00-4.99,E,VS1,IGI
+Oakridge Diamond Traders LLP,29844.05,33255.21,India,Rohan Kapoor,,2024-08-05,2026-08-03,6,4974.01,586.4,106,98.04,7 days,RB,5.00+,E,SI1,IGI
+Silverleaf Jewellery LLP,29786.83,24630.18,India,Karan Bhatia,,2024-08-10,2026-05-05,6,4964.47,450.36,346,98.18,Cash On Delivery,RB,0.50-0.99,G,VS1,IGI
+Pinnacle Brilliants LLP,29426.78,25394.29,India,Isha Reddy,,2024-08-05,2026-08-07,11,2675.16,539.96,343,98.38,5 days,ASH,1.00-1.49,E,VVS2,IGI
+Silverleaf Brilliants LLP,29361.93,22466.79,India,Priya Mehta,,2024-08-18,2026-07-14,7,4194.56,516.78,157,98.47,5 days,RB,3.00-4.99,G,VS2,IGI
+Sapphire Bay Jewels Co,29211.21,17558.58,United States,Rohan Kapoor,,2024-08-10,2026-08-13,5,5842.24,521.52,217,98.26,Cash On Delivery,OV,1.00-1.49,D,VVS2,IGI
+Bluestone Stones LLC,29082.97,31667.11,United States,Ananya Iyer,,2024-08-19,2026-08-11,8,3635.37,535.22,299,98.25,60 days,ASH,2.00-2.99,E,VS2,IGI
+Ironwood Jewels BVBA,28956.06,65173.66,Belgium,Priya Mehta,,2024-08-06,2026-01-25,4,7239.02,421.65,352,98.57,5 days,RB,2.00-2.99,F,VS1,IGI
+Foxglove Gem House Co Ltd,28839.99,16741.59,Hong Kong,Sameer Kulkarni,,2024-08-02,2026-08-18,9,3204.44,595.63,152,98.29,7 days,RAD,3.00-4.99,D,VVS2,IGI
+Vantage Fine Jewelry LLP,28706.93,21208.07,India,Aditya Nair,,2024-08-09,2026-08-22,10,2870.69,568.86,109,98.47,Advance,MQ,5.00+,H,VS2,IGI
+Meridian Gems Co,28500.64,24541.05,United States,Aditya Nair,,2024-08-12,2026-08-22,63,452.39,508.28,198,98.36,Cash On Delivery,PE,2.00-2.99,H,VS2,IGI
+Crestline Fine Jewelry LLC,28270.64,26084.87,United States,Aditya Nair,Brightline Brokers,2024-08-06,2026-07-31,6,4711.77,493.95,202,98.45,30 days,MQ,2.00-2.99,E,VVS2,IGI
+Brightwater Gem House Inc,28129.96,49085.25,United States,Sameer Kulkarni,,2024-08-09,2026-07-09,5,5625.99,533.78,252,98.63,7 days,HT,2.00-2.99,F,VVS2,IGI
+Vantage Gems LLC,27934.88,23076.15,United Arab Emirates,Karan Bhatia,Clearview Intermediaries,2024-08-17,2026-08-01,13,2148.84,548.27,143,98.3,Advance,RAD,3.00-4.99,H,VS1,IGI
+Nobleton Diamonds LLC,27800.74,26111.16,United States,Meera Pillai,,2024-08-10,2026-08-18,7,3971.53,506.92,301,98.43,30 days,ASH,1.00-1.49,H,VS1,IGI
+Westbrook Jewellery Co,27738.64,0,United States,Ananya Iyer,,2025-09-01,2026-08-06,10,2773.86,525.68,151,98.29,Advance,HT,3.00-4.99,E,VS1,IGI
+Tidewell Jewellery NV,27702.21,27537.29,Belgium,Tara Menon,Brightline Brokers,2024-08-15,2026-07-03,5,5540.44,519.8,96,98.15,Advance,RB,5.00+,E,VVS2,IGI
+Tidewell Brilliants Pvt Ltd,27587.51,25724.97,India,Neha Joshi,,2024-08-19,2026-08-16,31,889.92,530.53,148,98.46,Advance,MQ,3.00-4.99,F,VS1,IGI
+Bluestone Brilliants NV,27513.19,0,Belgium,Rohan Kapoor,,2025-11-04,2026-07-13,5,5502.64,491.54,187,98.24,Advance,PE,2.00-2.99,F,VS1,IGI
+Silverleaf Diamonds LLC,27485.52,0,United States,Sameer Kulkarni,,2026-01-20,2026-08-17,4,6871.38,526.76,267,98.58,7 days,HT,1.00-1.49,G,VVS1,IGI
+Sapphire Bay Diamonds Co Ltd,27483.74,23550.32,Hong Kong,Vikram Desai,Prism Trade Links,2024-08-05,2026-08-16,15,1832.25,475.01,315,98.23,7 days,OV,1.00-1.49,E,SI1,IGI
+Nobleton Diamonds Pvt Ltd,27022.8,52653.62,India,Isha Reddy,,2024-08-07,2026-03-26,3,9007.6,504.56,348,98.21,Advance,CU,1.00-1.49,H,VS1,IGI
+Quartzline Diamond Traders LLC,26758.73,22905.44,United States,Meera Pillai,Atlas Gem Agents,2024-08-16,2026-07-14,7,3822.68,476.9,223,98.34,Advance,EM,1.50-1.99,F,VVS2,IGI
+Foxglove Gems Pvt Ltd,26740.99,77400.49,India,Rohan Kapoor,Atlas Gem Agents,2024-08-08,2026-02-01,24,1114.21,434.21,406,98.39,Advance,PE,0.50-0.99,E,VVS2,IGI
+Lumina Creations LLC,26638.5,23782.48,United States,Sameer Kulkarni,,2024-08-05,2026-07-20,8,3329.81,386.79,226,98.34,Cash On Delivery,RB,1.50-1.99,H,VS1,IGI
+Ivory Coast Brilliants Ltd,26479.27,26951.93,Israel,Ananya Iyer,,2024-08-17,2026-07-10,6,4413.21,452.1,203,98.1,Advance,EM,1.50-1.99,G,VS1,IGI
+Juniper Creations Inc,26403.91,19264.54,Canada,Aditya Nair,,2024-08-08,2026-03-16,6,4400.65,479.92,225,98.47,30 days,RB,1.00-1.49,E,VS1,IGI
+Amberly Jewels LLP,26180.87,31190.41,India,Ananya Iyer,Brightline Brokers,2024-08-09,2026-07-07,4,6545.22,484.59,196,98.35,Cash On Delivery,OV,2.00-2.99,H,VVS1,IGI
+Willowmere Stones Inc,26171.24,16962.06,United States,Dev Arora,Brightline Brokers,2024-08-13,2026-08-05,7,3738.75,446.06,189,98.52,Advance,OV,2.00-2.99,F,VS1,IGI
+Crestline Creations Ltd,25953.5,29004.71,Hong Kong,Rohan Kapoor,,2024-08-01,2026-08-19,8,3244.19,423.48,234,98.61,Advance,RB,1.00-1.49,E,VS1,IGI
+Radiant Diamond Traders Inc,25751.83,17674.65,United States,Ananya Iyer,Prism Trade Links,2024-08-01,2026-07-30,9,2861.31,464.67,260,98.2,Advance,CU,1.00-1.49,F,VS1,IGI
+Driftwood Brilliants Pvt Ltd,25692.14,35669.5,India,Vikram Desai,,2024-08-09,2026-07-07,7,3670.31,453.98,195,98.33,5 days,RB,5.00+,G,VVS2,IGI
+Radiant Jewels Co,25064.74,12842.56,United States,Karan Bhatia,Atlas Gem Agents,2024-08-07,2026-07-31,8,3133.09,435.23,240,98.18,Advance,OV,1.00-1.49,E,VVS2,IGI
+Amberly Fine Jewelry Ltd,25060.43,27491.53,Hong Kong,Priya Mehta,,2024-08-12,2026-08-16,29,864.15,429.74,132,98.34,Cash On Delivery,RB,3.00-4.99,F,VS1,IGI
+Cobalt Jewels Inc,24995.38,26215.15,United States,Meera Pillai,Prism Trade Links,2024-08-04,2026-08-13,31,806.3,415.97,163,98.36,Advance,RB,2.00-2.99,H,VS2,IGI
+Crestline Stones LLC,24988.75,15411.05,United States,Meera Pillai,,2024-08-18,2026-08-09,9,2776.53,403.36,269,98.25,Advance,OV,1.00-1.49,D,VS1,IGI
+Emberly Diamond Traders Co Ltd,24869.72,29466.22,Hong Kong,Tara Menon,Northstar Agency,2024-08-11,2026-08-17,17,1462.92,480.35,125,98.5,Advance,ASH,3.00-4.99,H,VS1,IGI
+Glenhaven Diamond Traders LLC,24829.53,18673.16,United States,Rohan Kapoor,,2024-08-01,2026-08-22,11,2257.23,407.84,192,98.24,7 days,RB,1.50-1.99,E,VS2,IGI
+Moonstone Fine Jewelry Pty Ltd,24814.9,22543.46,Australia,Dev Arora,,2024-08-16,2026-06-20,6,4135.82,426.54,223,98.25,Advance,OV,1.00-1.49,F,SI1,IGI
+Glenhaven Gem House Pvt Ltd,24632.98,26515.95,India,Ananya Iyer,,2024-08-18,2026-08-17,7,3519,452.79,100,98.39,Cash On Delivery,RB,5.00+,E,SI1,IGI
+Kingsbury Gems NV,24539.28,22826.66,Belgium,Vikram Desai,,2024-08-04,2026-08-16,44,557.71,422.1,172,98.41,Cash On Delivery,EM,2.00-2.99,E,VS2,IGI
+Radiant Gem House Co,24514.96,17544.2,United States,Karan Bhatia,,2024-08-12,2026-08-11,30,817.17,392.9,213,98.27,5 days,RB,1.00-1.49,E,VS2,IGI
+Lumina Brilliants Co,24513.61,28448.94,United States,Neha Joshi,,2024-08-08,2026-08-06,13,1885.66,449.8,173,98.26,5 days,CU,2.00-2.99,F,SI1,IGI
+Starling Gems Pty Ltd,24477.73,0,Australia,Ananya Iyer,,2025-11-24,2026-08-10,16,1529.86,429.96,173,98.29,Advance,EM,2.00-2.99,E,VVS2,IGI
+Quartzline Diamonds LLP,24407.84,25673.89,India,Tara Menon,Prism Trade Links,2024-08-15,2026-08-17,52,469.38,386.62,239,98.36,30 days,RB,1.00-1.49,D,VVS2,IGI
+Silverleaf Fine Jewelry LLP,24080.15,18579.31,India,Ananya Iyer,,2024-08-08,2026-07-10,8,3010.02,460.2,189,98.31,Advance,PR,2.00-2.99,F,VS1,IGI
+Harbourline Gem House NV,23997.13,4873.93,Belgium,Priya Mehta,,2025-06-02,2026-07-27,10,2399.71,456.46,155,98.37,Cash On Delivery,PR,5.00+,E,VS1,IGI
+Radiant Fine Jewelry FZE,23931.23,22589.14,United Arab Emirates,Vikram Desai,,2024-08-04,2026-07-29,5,4786.25,370.23,181,98.56,Advance,RB,2.00-2.99,D,VVS1,IGI
+Brightwater Creations Pvt Ltd,23894.57,12718.48,India,Sameer Kulkarni,,2024-08-11,2026-08-16,5,4778.91,474.24,218,98.4,Advance,CU,3.00-4.99,G,VS1,IGI
+Northgate Jewels Ltd,23826.43,30979.88,Israel,Sameer Kulkarni,Facet Partners,2024-08-06,2026-07-31,11,2166.04,470.15,93,98.37,5 days,OV,5.00+,D,VVS2,IGI
+Juniper Diamond Traders Inc,23699.45,28277.84,United States,Sameer Kulkarni,,2024-08-10,2026-08-09,7,3385.64,465.3,131,98.25,5 days,ASH,3.00-4.99,E,VVS1,IGI
+Ironwood Creations BVBA,23574.09,20310.92,Belgium,Priya Mehta,Facet Partners,2024-08-13,2026-08-02,10,2357.41,448.8,182,98.16,Advance,MQ,2.00-2.99,G,VVS2,IGI
+Westbrook Gems Ltd,23500.34,3319.05,Israel,Meera Pillai,,2025-07-25,2026-07-23,12,1958.36,389.58,113,98.23,Advance,RB,3.00-4.99,E,VS1,IGI
+Northgate Creations Pvt Ltd,23494.2,19520.76,India,Ananya Iyer,,2024-08-17,2026-08-12,5,4698.84,462.37,114,98.25,Cash On Delivery,HT,3.00-4.99,E,VS2,IGI
+Ironwood Diamond Traders Co,23338.06,16827.42,United States,Dev Arora,Prism Trade Links,2024-08-05,2026-08-01,7,3334.01,451.96,88,98.35,Advance,RAD,5.00+,E,VVS1,IGI
+Driftwood Stones Ltd,22708.95,12719.56,United Kingdom,Ananya Iyer,,2024-11-25,2026-07-30,11,2158.77,376.09,275,98.02,7 days,RB,0.50-0.99,F,VS2,IGI
+Harbourline Gem House Co,22554.09,153528.05,United States,Isha Reddy,Atlas Gem Agents,2024-08-05,2025-10-22,6,3759.02,358.65,239,98.32,7 days,OV,1.00-1.49,E,VVS1,IGI
+Kingsbury Creations LLP,22541.48,16150.45,India,Ananya Iyer,Prism Trade Links,2024-08-10,2026-08-08,13,1733.96,334.74,159,98.63,90 days,RB,1.50-1.99,F,VS2,IGI
+Pinnacle Jewels Inc,22502.86,0,United States,Aditya Nair,,2025-09-26,2026-08-15,5,4500.57,377.79,109,98.22,7 days,RB,3.00-4.99,D,VS1,IGI
+Glenhaven Jewels NV,22484.56,14326.67,Belgium,Priya Mehta,,2024-08-14,2026-07-10,6,3747.43,363.03,182,98.28,Cash On Delivery,OV,1.50-1.99,E,VS1,IGI
+Celestine Gems LLC,22335.41,12764.94,United States,Aditya Nair,Facet Partners,2025-01-16,2026-07-02,6,3722.57,398.69,157,98.45,60 days,OV,2.00-2.99,E,VS2,IGI
+Oakridge Stones Pvt Ltd,22244.1,19405.76,India,Rohan Kapoor,,2024-08-14,2026-07-25,12,1853.68,422.38,209,98.48,5 days,HT,1.00-1.49,E,SI1,IGI
+Nobleton Gems Pvt Ltd,22220.16,29791.42,India,Aditya Nair,,2024-08-19,2026-02-08,4,5555.04,405.52,148,98.37,7 days,RB,1.50-1.99,H,VS1,IGI
+Radiant Jewels Inc,21927.43,23548.81,Canada,Karan Bhatia,,2024-08-03,2026-07-06,7,3132.49,422.64,108,98.28,Cash On Delivery,EM,3.00-4.99,D,VS1,IGI
+Bellcourt Stones Pvt Ltd,21892.55,57628.41,India,Priya Mehta,,2024-08-07,2026-01-02,6,3648.76,384.93,192,98.25,Cash On Delivery,PE,1.00-1.49,H,VVS2,IGI
+Westbrook Diamonds Inc,21842.37,23829.64,United States,Isha Reddy,,2024-08-20,2026-06-05,26,840.09,384.85,215,98.28,5 days,MQ,3.00-4.99,E,VS1,IGI
+Rosewood Brilliants Inc,21565.48,19814.44,United States,Vikram Desai,,2024-08-20,2026-08-19,64,336.96,390.52,238,98.29,5 days,ASH,1.00-1.49,E,VS1,IGI
+Amberly Creations Co,21496.94,18493.02,United States,Dev Arora,,2024-08-15,2026-08-17,33,651.42,419.81,115,98.42,7 days,ASH,3.00-4.99,E,VVS2,IGI
+Opaline Jewels Ltd,21457.42,0,United Kingdom,Isha Reddy,,2025-10-19,2026-05-01,6,3576.24,380.96,152,98.36,7 days,PE,2.00-2.99,F,VVS2,IGI
+Glenhaven Brilliants Co,21410.47,19488.06,United States,Priya Mehta,,2024-08-20,2026-08-15,11,1946.41,378.28,225,98.29,Advance,OV,1.00-1.49,E,VS1,IGI
+Bellcourt Fine Jewelry Inc,21306.8,13002.59,United States,Sameer Kulkarni,,2024-08-04,2026-07-16,6,3551.13,410.01,112,98.29,7 days,ASH,3.00-4.99,F,VVS2,IGI
+Tidewell Fine Jewelry Pty Ltd,21075.82,0,Australia,Neha Joshi,,2026-01-06,2026-08-15,6,3512.64,392.8,173,98.43,Advance,PE,2.00-2.99,H,VS1,IGI
+Foxglove Creations Co,20868.07,0,United States,Rohan Kapoor,,2026-06-22,2026-07-31,2,10434.04,358.25,197,99.24,Advance,EM,2.00-2.99,G,VS2,IGI
+Harbourline Stones NV,20799.75,20872.31,Belgium,Neha Joshi,,2024-08-12,2026-08-22,24,866.66,356.94,213,98.34,60 days,OV,1.00-1.49,G,VVS2,IGI
+Pinnacle Jewels KK,20785.73,12292.34,Japan,Ananya Iyer,,2024-08-03,2026-08-04,11,1889.61,395.29,122,98.52,5 days,EM,3.00-4.99,E,VVS2,IGI
+Moonstone Fine Jewelry LLC,20743.15,9407.77,United States,Tara Menon,,2024-08-05,2026-08-22,10,2074.32,336.67,158,98.44,5 days,EM,1.00-1.49,E,VVS2,IGI
+Harbourline Diamonds Co,20470.2,15605.07,United States,Ananya Iyer,,2024-08-13,2026-08-19,32,639.69,375.94,243,98.32,7 days,PR,0.50-0.99,H,VVS2,IGI
+Oakridge Diamonds LLC,20310.84,21652.26,United States,Neha Joshi,,2024-08-01,2026-07-14,5,4062.17,359.68,205,98.55,5 days,RB,1.00-1.49,G,VS2,IGI
+Larkspur Brilliants Pvt Ltd,20200,20462.23,India,Meera Pillai,Facet Partners,2024-08-08,2026-06-17,7,2885.71,361.24,147,98.28,30 days,OV,2.00-2.99,G,VS2,IGI
+Moonstone Jewels LLC,20138.37,28518.37,United States,Dev Arora,Facet Partners,2024-08-15,2026-06-28,4,5034.59,363.71,153,98.49,Advance,EM,2.00-2.99,E,VS1,IGI
+Solstice Jewels Inc,20122.94,6115.05,United States,Neha Joshi,,2025-06-02,2026-07-28,12,1676.91,357.63,126,98.26,7 days,MQ,2.00-2.99,E,VVS2,IGI
+Willowmere Gems Co,20020.43,0,United States,Priya Mehta,,2026-07-17,2026-08-20,2,10010.22,335.28,133,98.03,5 days,RB,3.00-4.99,H,VS1,IGI
+Juniper Jewellery Co Ltd,19672.66,13790.58,Hong Kong,Priya Mehta,,2024-11-08,2026-08-19,6,3278.78,360.14,97,98.27,30 days,OV,3.00-4.99,F,VS2,IGI
+Silverleaf Diamond Traders LLC,19569.57,0,United Arab Emirates,Dev Arora,,2025-12-20,2026-08-01,7,2795.65,294.41,240,98.53,30 days,RB,0.50-0.99,E,VS1,IGI
+Nobleton Brilliants Pty Ltd,19431.24,25732,Australia,Isha Reddy,,2024-12-15,2026-02-24,21,925.3,335.46,92,98.33,Cash On Delivery,RB,3.00-4.99,E,VS1,IGI
+Pinnacle Brilliants LLC,19414.73,12634.84,United States,Rohan Kapoor,,2024-08-05,2026-06-15,7,2773.53,335.03,118,98.21,7 days,MQ,2.00-2.99,E,VS1,IGI
+Evermore Gems BVBA,19165.59,37105.91,Belgium,Sameer Kulkarni,,2024-08-19,2026-03-26,6,3194.26,284.22,157,98.33,Cash On Delivery,RB,2.00-2.99,E,VVS1,IGI
+Halcyon Brilliants LLC,19124.82,64660.26,United States,Dev Arora,,2024-08-19,2026-02-26,10,1912.48,276.96,330,98.32,Advance,OV,0.50-0.99,H,VS1,IGI
+Driftwood Stones Co,19031.68,18021.48,United States,Aditya Nair,,2024-08-11,2026-08-22,9,2114.63,369.21,72,98.44,5 days,PE,5.00+,E,VVS2,IGI
+Amberly Fine Jewelry LLC,18961.55,13206.95,United States,Tara Menon,,2024-08-15,2026-08-07,9,2106.84,342.4,64,98.32,30 days,RB,5.00+,F,VS1,IGI
+Quartzline Gem House LLC,18940.05,0,United States,Isha Reddy,,2025-08-29,2026-08-21,15,1262.67,398.36,74,98.31,Advance,EM,5.00+,D,VS1,IGI
+Juniper Fine Jewelry Inc,18804.43,5785.71,United States,Dev Arora,,2024-08-08,2026-08-20,11,1709.49,317.28,101,98.3,Cash On Delivery,RB,2.00-2.99,E,VS1,IGI
+Vantage Jewels Pvt Ltd,18772.79,29129.19,India,Priya Mehta,,2024-08-09,2026-02-28,8,2346.6,327.8,71,98.1,Advance,RB,5.00+,E,VS1,IGI
+Kingsbury Gems Co,18731.7,16500.99,United States,Meera Pillai,,2024-08-07,2026-08-22,43,435.62,335.09,224,98.21,Advance,HT,0.50-0.99,E,SI1,IGI
+Radiant Fine Jewelry Inc,18686.6,38630.35,United States,Tara Menon,,2024-08-05,2025-12-27,3,6228.87,352,110,98.15,Advance,RB,2.00-2.99,F,VS2,IGI
+Solstice Jewellery Ltd,18686.38,16194.29,Israel,Priya Mehta,Northstar Agency,2024-08-19,2026-08-06,14,1334.74,350.1,172,98.44,7 days,PR,2.00-2.99,F,VS1,IGI
+Pinnacle Fine Jewelry Ltd,18454.88,52644.93,Israel,Dev Arora,,2024-08-16,2026-01-06,11,1677.72,369.12,111,98.39,Advance,CU,3.00-4.99,F,VS1,IGI
+Ironwood Jewels FZE,18442.88,10288.09,United Arab Emirates,Meera Pillai,,2025-01-26,2026-08-03,11,1676.63,319.03,239,98.39,Advance,PE,1.00-1.49,H,VS1,IGI
+Meridian Jewellery Co,18410.7,18938.86,United States,Ananya Iyer,,2024-08-08,2026-08-09,12,1534.22,310.74,164,98.28,Advance,RAD,1.50-1.99,F,VS1,IGI
+Silverleaf Gem House Co,18231.88,3139.72,United States,Karan Bhatia,,2025-07-16,2026-08-10,7,2604.55,294.32,108,98.46,5 days,RB,2.00-2.99,E,VVS2,IGI
+Oakridge Fine Jewelry LLC,18088.13,21929.67,United Arab Emirates,Ananya Iyer,,2024-08-08,2026-08-22,10,1808.81,341.9,96,98.15,30 days,RAD,3.00-4.99,F,VS1,IGI
+Rosewood Gems LLP,18055.34,33658.58,India,Sameer Kulkarni,,2024-08-18,2026-01-08,3,6018.45,348.22,159,98.29,7 days,ASH,2.00-2.99,D,VVS2,IGI
+Willowmere Creations Inc,17953.96,16341.3,United States,Meera Pillai,,2024-08-06,2026-03-17,4,4488.49,288.26,139,98.19,Cash On Delivery,RB,2.00-2.99,G,VS1,IGI
+Willowmere Jewels Ltd,17815.03,22861.16,Hong Kong,Vikram Desai,,2024-08-05,2026-06-06,5,3563.01,297.59,139,98.47,Advance,RB,2.00-2.99,E,VVS2,IGI
+Vantage Gem House LLC,17706.04,15830.68,United States,Ananya Iyer,,2024-08-07,2026-07-27,8,2213.26,273.99,172,98.44,Cash On Delivery,RB,1.00-1.49,E,VVS2,IGI
+Glenhaven Gem House LLP,17677.42,6136.56,India,Tara Menon,,2025-01-16,2026-08-11,18,982.08,294.17,155,98.36,Cash On Delivery,EM,1.50-1.99,E,VVS1,IGI
+Quartzline Gems Co,17513.46,0,United States,Karan Bhatia,Facet Partners,2025-10-20,2026-08-19,5,3502.69,339.02,82,98.48,Cash On Delivery,OV,3.00-4.99,E,VVS1,IGI
+Foxglove Gem House KK,17512.51,5318.44,Japan,Tara Menon,,2025-05-25,2026-07-31,11,1592.05,308.19,110,98.49,Advance,HT,2.00-2.99,F,VS1,IGI
+Quartzline Jewels LLP,17467.9,30973.56,India,Neha Joshi,,2024-08-20,2026-03-18,15,1164.53,324.33,89,98.25,Advance,RAD,3.00-4.99,E,VS1,IGI
+Larkspur Stones Co,17115.93,52057.81,United States,Priya Mehta,,2024-08-19,2026-02-18,12,1426.33,301.01,200,98.3,5 days,RAD,1.00-1.49,F,VS2,IGI
+Nobleton Diamond Traders Pvt Ltd,17078.55,17915.65,India,Meera Pillai,,2024-10-31,2026-06-07,5,3415.71,303.77,129,98.47,60 days,MQ,2.00-2.99,H,VS1,IGI
+Rosewood Jewellery Co,17001.07,17482.15,United States,Sameer Kulkarni,,2024-09-06,2026-08-03,23,739.18,297.86,145,98.34,Cash On Delivery,MQ,1.50-1.99,E,VS1,IGI
+Oakridge Jewellery LLC,16997.71,25308.72,United Arab Emirates,Karan Bhatia,,2024-08-08,2026-07-29,13,1307.52,304.15,99,98.09,30 days,EM,3.00-4.99,H,VS1,IGI
+Evermore Creations Inc,16967.82,0,Canada,Karan Bhatia,Facet Partners,2026-02-03,2026-07-10,4,4241.96,295.1,116,97.95,Advance,RAD,2.00-2.99,E,VS1,NON
+Bellcourt Jewels LLP,16912.34,27984,India,Neha Joshi,,2024-08-15,2026-06-21,5,3382.47,271.94,152,98.22,5 days,MQ,1.50-1.99,E,VVS2,IGI
+Crestline Diamond Traders Ltd,16910.21,10081.79,Hong Kong,Dev Arora,,2024-08-13,2026-08-22,19,890.01,311.25,88,98.32,5 days,CU,3.00-4.99,E,VS1,IGI
+Rosewood Gem House Co,16625.18,12479.06,United States,Karan Bhatia,,2024-08-13,2026-07-13,6,2770.86,348.32,64,98.29,30 days,MQ,5.00+,H,VVS2,IGI
+Willowmere Fine Jewelry Co,16613.3,22668.69,United States,Meera Pillai,,2024-08-20,2026-07-31,6,2768.88,261.12,187,98.13,60 days,RB,1.00-1.49,F,VVS2,IGI
+Ironwood Diamonds NV,16595.79,21307.55,Belgium,Aditya Nair,Northstar Agency,2024-08-04,2026-06-06,6,2765.97,246.14,153,98.56,7 days,RB,1.50-1.99,E,VS1,IGI
+Starling Gems LLP,16207.85,13473.64,India,Dev Arora,,2024-08-16,2026-08-04,8,2025.98,318.35,119,98.2,7 days,ASH,2.00-2.99,H,VS1,IGI
+Solstice Jewellery Co,15978.26,16792.24,United States,Sameer Kulkarni,Northstar Agency,2024-08-19,2026-08-15,6,2663.04,285.22,149,98.31,5 days,MQ,2.00-2.99,F,VVS1,IGI
+Evermore Diamond Traders Co Ltd,15977.78,15990.23,Thailand,Dev Arora,,2024-08-13,2026-07-29,12,1331.48,314.6,61,98.21,7 days,RAD,5.00+,E,VS1,IGI
+Zenith Creations KK,15833.77,22630.49,Japan,Meera Pillai,,2024-08-17,2026-08-14,22,719.72,308.5,91,98.3,Advance,PR,3.00-4.99,G,VS2,IGI
+Emberly Fine Jewelry NV,15643.85,0,Belgium,Ananya Iyer,Facet Partners,2025-09-02,2026-08-01,17,920.23,263.07,111,98.38,Advance,RB,2.00-2.99,G,VVS1,IGI
+Driftwood Diamonds LLP,15433.69,24940.96,India,Sameer Kulkarni,,2024-08-12,2026-06-16,6,2572.28,227.85,205,98.64,Advance,RB,3.00-4.99,G,VS1,IGI
+Nobleton Gem House Pvt Ltd,15432.07,0,India,Neha Joshi,,2026-02-27,2026-07-29,4,3858.02,253.62,136,98.11,Cash On Delivery,OV,2.00-2.99,F,VS1,IGI
+Radiant Brilliants BVBA,15370.76,83763.61,Belgium,Ananya Iyer,Prism Trade Links,2024-08-16,2025-10-26,2,7685.38,243.09,176,98.32,Advance,RB,1.00-1.49,E,VS2,IGI
+Kingsbury Jewellery LLC,15315.36,0,United Arab Emirates,Vikram Desai,,2025-12-29,2026-07-22,5,3063.07,273.95,103,98.73,Cash On Delivery,EM,2.00-2.99,D,VVS1,IGI
+Pinnacle Diamonds Inc,15254.14,9019,United States,Meera Pillai,,2024-08-19,2026-07-19,9,1694.9,265.4,70,98.06,Cash On Delivery,RB,3.00-4.99,E,VS1,IGI
+Ironwood Creations LLC,14877.98,0,United States,Tara Menon,,2025-08-26,2026-08-07,6,2479.66,290.39,88,98.15,7 days,RAD,3.00-4.99,E,VS1,IGI
+Zenith Brilliants Pvt Ltd,14751.59,17942.44,India,Aditya Nair,,2024-08-10,2026-08-10,30,491.72,238.47,138,98.33,5 days,RB,1.00-1.49,F,VVS2,IGI
+Evermore Brilliants Inc,14694.12,19934.51,United States,Isha Reddy,,2024-08-10,2026-08-22,15,979.61,267.72,189,98.5,7 days,RAD,1.00-1.49,D,VVS2,IGI
+Moonstone Gems Inc,14545.72,0,United States,Ananya Iyer,,2026-01-06,2026-08-19,13,1118.9,230.55,90,98.02,5 days,RB,1.50-1.99,F,VS1,IGI
+Halcyon Brilliants Pty Ltd,14491.32,0,Australia,Rohan Kapoor,,2025-09-22,2026-05-04,9,1610.15,279.21,90,98.12,Advance,PE,2.00-2.99,E,VS1,IGI
+Halcyon Brilliants Co Ltd,14408.49,13821.58,Hong Kong,Sameer Kulkarni,,2024-08-04,2026-08-03,6,2401.42,259.05,96,98.56,7 days,RAD,2.00-2.99,E,VS1,IGI
+Willowmere Jewels Pvt Ltd,14400.18,11075.78,India,Dev Arora,Brightline Brokers,2024-08-04,2026-08-04,16,900.01,269.13,78,98.34,5 days,OV,3.00-4.99,E,VS2,IGI
+Ironwood Jewellery Inc,13981.39,45424.12,Canada,Neha Joshi,,2024-08-07,2026-02-10,4,3495.35,228.62,100,98.16,Advance,RB,3.00-4.99,D,VS1,IGI
+Radiant Brilliants KK,13926.24,0,Japan,Sameer Kulkarni,,2025-11-02,2026-08-09,6,2321.04,250.16,133,98.36,5 days,PE,1.50-1.99,E,VS1,IGI
+Kingsbury Stones Inc,13909.33,17350.61,Canada,Tara Menon,,2024-08-13,2026-08-18,6,2318.22,276.51,84,98.11,Advance,CU,3.00-4.99,D,VS1,IGI
+Starling Gems Inc,13901.86,0,United States,Vikram Desai,,2025-08-24,2025-11-11,4,3475.47,225.79,71,98.35,7 days,RB,3.00-4.99,D,VVS2,IGI
+Willowmere Diamonds Ltd,13785.03,16789.91,Israel,Rohan Kapoor,,2024-08-14,2026-06-10,5,2757.01,243.77,84,98.43,Advance,RB,3.00-4.99,H,VS1,IGI
+Northgate Diamond Traders Ltd,13418.08,8767.43,Hong Kong,Vikram Desai,,2024-08-02,2026-08-19,8,1677.26,242.09,77,98.51,Advance,PE,2.00-2.99,E,VS1,IGI
+Glenhaven Jewellery BVBA,13385.93,0,Belgium,Rohan Kapoor,,2026-03-13,2026-08-19,7,1912.28,254.67,107,98.39,7 days,MQ,2.00-2.99,F,VS2,IGI
+Juniper Gem House Inc,13374.56,30886.63,United States,Priya Mehta,Northstar Agency,2024-08-02,2026-01-08,3,4458.19,241.6,70,98.28,Advance,RB,3.00-4.99,H,VVS2,IGI
+Amberly Gems Co,13373.31,28798.41,United States,Priya Mehta,Atlas Gem Agents,2024-08-11,2026-01-19,10,1337.33,226.6,129,98.2,60 days,EM,1.00-1.49,E,VVS2,IGI
+Foxglove Fine Jewelry Ltd,13323.9,13513.78,Hong Kong,Ananya Iyer,,2024-08-17,2026-08-18,27,493.48,220.87,109,98.22,5 days,OV,1.50-1.99,F,VS1,IGI
+Harbourline Jewels FZE,13206.23,18691.03,United Arab Emirates,Ananya Iyer,,2024-08-09,2026-07-05,6,2201.04,221.59,104,98.26,5 days,PE,1.50-1.99,F,VVS2,IGI
+Vantage Gem House Ltd,13118.92,12388.14,Hong Kong,Isha Reddy,,2024-08-17,2026-08-22,36,364.41,240.87,125,98.37,Advance,CU,1.00-1.49,E,VS2,IGI
+Nobleton Fine Jewelry Inc,13097.35,16282.42,Canada,Priya Mehta,,2024-08-03,2026-08-22,8,1637.17,259.83,68,98.52,Cash On Delivery,MQ,3.00-4.99,E,VVS2,IGI
+Lumina Diamond Traders LLP,12977.87,17145.52,India,Neha Joshi,,2024-08-09,2026-08-06,12,1081.49,250.51,68,98.4,7 days,MQ,3.00-4.99,E,VVS2,IGI
+Celestine Diamond Traders KK,12691.96,61544.6,Japan,Vikram Desai,,2024-08-09,2025-11-20,3,6969.3,213.84,161,98.45,Advance,OV,1.00-1.49,D,VVS2,IGI
+Tidewell Diamond Traders KK,12685.99,0,Japan,Rohan Kapoor,,2026-07-22,2026-08-18,4,3171.5,235.43,83,97.91,90 days,PE,3.00-4.99,D,VVS1,IGI
+Driftwood Diamond Traders Pvt Ltd,12605.56,0,India,Aditya Nair,,2025-12-03,2026-08-18,14,900.4,229.25,83,98.51,Cash On Delivery,RB,5.00+,F,VS1,IGI
+Kingsbury Brilliants Co Ltd,12547.83,21681.8,Thailand,Sameer Kulkarni,,2024-08-04,2026-01-27,22,570.36,199.12,119,98.35,5 days,RB,1.00-1.49,E,VS2,IGI
+Oakridge Jewels Co,12547.29,9460.35,United States,Karan Bhatia,Northstar Agency,2024-08-04,2026-08-06,7,1792.47,237.57,69,98.27,Cash On Delivery,EM,3.00-4.99,E,VVS2,IGI
+Aurora Stones LLC,12483.28,13712.39,United States,Isha Reddy,,2024-08-19,2026-08-20,24,520.14,224.79,89,98.18,7 days,CU,2.00-2.99,D,VS1,IGI
+Sapphire Bay Brilliants BVBA,12413.17,8803.52,Belgium,Isha Reddy,,2024-08-18,2026-08-07,6,2068.86,231.25,83,98.34,Cash On Delivery,MQ,2.00-2.99,H,VVS2,IGI
+Rosewood Stones Ltd,12373.95,18533.55,United Kingdom,Isha Reddy,Atlas Gem Agents,2024-08-05,2026-08-13,31,399.16,215.09,180,98.3,5 days,ASH,0.50-0.99,F,VVS2,IGI
+Starling Gems Pvt Ltd,12359.87,11473.59,India,Tara Menon,,2024-08-18,2026-07-13,11,1123.62,243.63,65,98.25,7 days,MQ,3.00-4.99,H,VVS2,IGI
+Radiant Diamonds Pty Ltd,12260.66,28841.94,Australia,Karan Bhatia,,2024-08-02,2026-01-11,11,1114.61,188.01,84,98.31,7 days,RB,1.50-1.99,D,VS1,IGI
+Foxglove Jewels Pty Ltd,12012.99,12157.25,Australia,Ananya Iyer,,2024-08-18,2026-08-09,8,1501.62,188.94,97,98.39,5 days,RB,2.00-2.99,E,VS1,IGI
+Driftwood Diamond Traders LLC,11706.58,8464.77,United States,Tara Menon,,2024-08-04,2026-07-06,8,1463.32,196.9,39,98.57,Cash On Delivery,RB,5.00+,D,VS2,IGI
+Celestine Creations LLC,11645.12,7301.02,United States,Tara Menon,,2024-08-03,2026-07-21,5,2329.02,172.53,93,98.2,7 days,RB,1.50-1.99,E,VS1,IGI
+Halcyon Jewellery LLC,11626.08,7455.78,United States,Isha Reddy,,2024-08-10,2026-08-14,9,1291.79,193.42,98,98.3,7 days,PE,1.50-1.99,F,VS1,IGI
+Pinnacle Jewellery Co,11598.95,7990.06,United States,Vikram Desai,,2024-08-10,2026-07-31,12,966.58,201.06,119,98.29,5 days,MQ,0.50-0.99,E,VVS2,IGI
+Ironwood Brilliants Co Ltd,11574.21,0,Thailand,Neha Joshi,,2026-02-13,2026-08-06,5,2314.84,213.75,53,98.43,5 days,EM,3.00-4.99,E,VVS2,IGI
+Aurora Diamond Traders Ltd,11484.38,17408.67,United Kingdom,Rohan Kapoor,,2024-08-19,2026-03-19,6,1914.06,212.11,93,98.11,5 days,MQ,1.50-1.99,E,VVS1,IGI
+Kingsbury Jewellery Inc,11404.25,9111.32,United States,Vikram Desai,,2024-08-17,2026-08-22,30,380.14,195.27,89,98.29,Advance,EM,1.50-1.99,E,SI1,IGI
+Larkspur Jewellery Co Ltd,11370.85,6153.35,Hong Kong,Rohan Kapoor,,2024-08-13,2026-08-16,10,1137.09,191.65,162,98.41,Advance,RAD,0.50-0.99,E,VS1,IGI
+Northgate Jewellery Ltd,11324.98,8801.2,Israel,Neha Joshi,,2024-08-01,2026-08-04,12,943.75,188.07,96,98.32,Advance,RB,1.00-1.49,E,VVS2,IGI
+Oakridge Stones Pty Ltd,11313.92,9011.88,Australia,Ananya Iyer,Clearview Intermediaries,2024-08-15,2026-08-04,23,491.91,198.31,117,98.37,Advance,OV,3.00-4.99,D,VVS2,IGI
+Brightwater Brilliants LLP,11304.41,0,India,Sameer Kulkarni,Prism Trade Links,2026-01-18,2026-08-05,4,2826.1,199.76,73,98.65,5 days,PE,2.00-2.99,F,VS1,IGI
+Westbrook Fine Jewelry Co,11281.27,12557.79,United States,Meera Pillai,,2024-08-12,2026-06-12,6,1880.21,185.38,130,98.35,5 days,RB,1.00-1.49,E,VS1,IGI
+Amberly Jewellery Co,11235.2,10688,United States,Ananya Iyer,,2024-09-08,2026-06-23,6,1872.53,201.66,36,98.35,90 days,RB,5.00+,E,VS1,IGI
+Emberly Gem House LLC,11169.8,11442.28,United States,Rohan Kapoor,,2024-08-16,2026-07-27,7,1595.69,198.1,109,98.25,Cash On Delivery,EM,1.00-1.49,E,VS1,IGI
+Opaline Stones Pty Ltd,11159.01,12238.99,Australia,Dev Arora,,2024-08-19,2026-07-25,7,1594.14,191.84,58,98.37,Cash On Delivery,RB,3.00-4.99,E,VS1,IGI
+Juniper Jewellery LLP,11062.75,11390.76,India,Dev Arora,Northstar Agency,2024-08-01,2026-07-27,10,1106.28,208.92,69,98.5,Advance,CU,3.00-4.99,E,VVS2,IGI
+Meridian Gems Pvt Ltd,11056.35,12283,India,Dev Arora,,2024-08-02,2026-07-05,5,2211.27,186.92,100,98.29,Advance,EM,1.50-1.99,E,VS2,IGI
+Tidewell Diamonds Co,11031.34,9119.61,United States,Rohan Kapoor,,2024-08-11,2026-08-12,16,689.46,197.93,84,98.38,Advance,EM,2.00-2.99,E,VVS2,IGI
+Zenith Gems Co,10908.2,16494.32,United States,Aditya Nair,,2024-08-06,2026-03-13,4,2727.05,187.68,75,98.13,Cash On Delivery,MQ,2.00-2.99,D,VVS2,IGI
+Harbourline Diamonds Inc,10852.84,4963.71,United States,Neha Joshi,,2025-04-09,2026-07-07,6,1808.81,182.77,91,98.37,Advance,RB,1.50-1.99,G,VVS2,IGI
+Crestline Jewels Pvt Ltd,10832.02,103218.15,India,Neha Joshi,,2024-08-09,2025-11-01,2,5416.01,169.25,61,98.06,5 days,RB,3.00-4.99,F,VS1,IGI
+Glenhaven Creations Inc,10759.26,4030.71,United States,Dev Arora,,2025-07-11,2026-08-07,11,978.11,213.6,59,98.44,7 days,MQ,3.00-4.99,E,VS1,IGI
+Lumina Diamonds Ltd,10751.65,6586.74,United Kingdom,Vikram Desai,,2024-08-03,2026-08-10,11,977.42,202.97,65,98.37,5 days,RB,2.00-2.99,E,VVS2,IGI
+Vantage Creations Co,10670.63,10930.76,United States,Dev Arora,,2024-08-09,2026-07-23,14,762.19,196.9,56,98.62,Cash On Delivery,OV,3.00-4.99,E,VVS2,IGI
+Solstice Brilliants Ltd,10665.53,7869.81,Hong Kong,Meera Pillai,,2024-08-04,2026-07-29,6,1777.59,179.85,58,98.45,5 days,RB,2.00-2.99,F,SI1,IGI
+Willowmere Jewellery Pty Ltd,10625.21,13984.57,Australia,Sameer Kulkarni,,2024-08-18,2026-05-06,7,1517.89,190.14,68,98.4,Advance,OV,2.00-2.99,E,VS1,IGI
+Opaline Fine Jewelry Inc,10533.49,0,Canada,Neha Joshi,,2025-10-12,2026-08-10,8,1316.69,187.89,53,98.34,7 days,RB,3.00-4.99,E,VS1,IGI
+Evermore Gem House Inc,10503.21,12139.85,United States,Dev Arora,,2024-08-13,2026-07-31,14,750.23,195.09,60,98.39,60 days,OV,3.00-4.99,E,VS1,IGI
+Brightwater Gems LLC,10491.13,14558.4,United States,Meera Pillai,,2024-08-07,2026-08-15,10,1049.11,184.56,110,98.49,Advance,RAD,3.00-4.99,D,VS1,IGI
+Meridian Creations LLC,10436.34,11666.77,United States,Ananya Iyer,Atlas Gem Agents,2024-08-04,2026-08-16,6,1739.39,208.63,85,98.28,7 days,ASH,2.00-2.99,D,VS1,IGI
+Crestline Gem House Pvt Ltd,10273.56,0,India,Sameer Kulkarni,,2025-10-31,2026-08-13,6,1712.26,206.99,60,97.95,7 days,PR,3.00-4.99,H,VS1,IGI
+Crestline Creations NV,10151.38,14907.02,Belgium,Vikram Desai,Brightline Brokers,2024-08-05,2026-04-14,14,725.1,179.48,49,98.4,7 days,OV,3.00-4.99,F,VS2,IGI
+Halcyon Gem House Inc,10137.06,38563.15,United States,Sameer Kulkarni,,2024-08-01,2025-12-20,17,596.3,175.63,95,98.28,7 days,OV,1.50-1.99,E,VS1,IGI
+Tidewell Gem House Co,10074.23,20276.54,United States,Vikram Desai,,2024-08-07,2026-04-20,9,1119.36,165,116,98.37,7 days,EM,1.00-1.49,G,VS1,IGI
+Glenhaven Jewellery Co Ltd,10066.09,24177.91,Thailand,Neha Joshi,,2024-08-08,2026-01-26,3,3355.36,185.04,67,98.25,5 days,RB,3.00-4.99,G,VVS2,IGI
+Quartzline Gems Inc,10036.95,39710.31,United States,Tara Menon,,2024-08-05,2025-12-21,5,2007.39,172.59,72,98.42,Cash On Delivery,OV,2.00-2.99,E,VVS2,IGI
+Zenith Gems Co Ltd,10025.64,0,Thailand,Tara Menon,Northstar Agency,2025-10-11,2026-07-30,7,1432.23,167.58,67,98.23,Cash On Delivery,RB,2.00-2.99,F,VVS2,IGI
+Northgate Gem House Pvt Ltd,10020.36,13258.71,India,Karan Bhatia,,2024-08-05,2026-08-14,6,1670.06,176.37,44,98.29,Advance,EM,3.00-4.99,F,VS1,IGI
+Tidewell Fine Jewelry Pvt Ltd,10013.22,18433.48,India,Sameer Kulkarni,,2024-08-06,2026-03-02,27,370.86,159.87,79,98.36,Advance,OV,1.50-1.99,H,VS1,IGI
+Celestine Gems Co,9669.1,10072.71,United States,Dev Arora,,2024-08-15,2026-08-20,30,322.3,155.85,92,98.07,5 days,RB,1.00-1.49,E,VS1,IGI
+Ivory Coast Jewellery Pvt Ltd,9658.5,0,India,Rohan Kapoor,,2025-11-10,2026-01-25,3,3219.5,149.65,89,98.16,5 days,OV,1.50-1.99,E,VS2,IGI
+Westbrook Gem House Ltd,9639.67,5178.31,Hong Kong,Priya Mehta,,2024-08-19,2026-08-06,11,876.33,165.66,80,98.28,5 days,OV,1.00-1.49,E,VS1,IGI
+Lumina Fine Jewelry Co Ltd,9572.86,5791.5,Hong Kong,Dev Arora,,2024-08-17,2026-06-10,5,1914.57,184.21,55,98.4,Advance,CU,3.00-4.99,D,VS1,IGI
+Kingsbury Jewels Pvt Ltd,9477.15,25869.15,India,Neha Joshi,,2024-08-15,2026-01-05,11,861.56,142.74,83,98.32,30 days,RB,0.50-0.99,E,SI1,IGI
+Tidewell Gems Ltd,9473.91,11376.19,Hong Kong,Ananya Iyer,,2024-08-09,2026-04-15,11,861.26,167.6,55,98.33,5 days,OV,2.00-2.99,G,VS1,IGI
+Brightwater Diamond Traders Inc,9362.76,9392.13,United States,Meera Pillai,,2024-08-13,2026-08-05,18,520.15,159.51,80,98.19,7 days,RAD,1.50-1.99,F,VS1,IGI
+Vantage Diamonds Inc,9349.03,8262.2,United States,Ananya Iyer,,2024-08-02,2026-07-27,13,719.16,164.64,99,98.19,60 days,MQ,1.00-1.49,E,VS2,IGI
+Ironwood Jewellery Pvt Ltd,9347.8,7958.93,India,Neha Joshi,,2024-08-16,2026-07-31,10,934.78,167.09,64,98.28,7 days,EM,2.00-2.99,E,VS1,IGI
+Northgate Creations LLC,9324.87,2945.92,United States,Priya Mehta,,2025-05-08,2026-07-11,7,1332.12,155.2,56,98.36,90 days,RB,2.00-2.99,D,VVS2,IGI
+Solstice Gems LLC,9271.03,25623.66,United States,Ananya Iyer,,2024-08-10,2026-02-01,3,3090.34,141.96,112,98.51,Advance,RB,0.50-0.99,H,VVS2,IGI
+Vantage Gems Co Ltd,9266.11,9380.83,Hong Kong,Aditya Nair,,2024-08-20,2026-08-22,7,1323.73,172.24,73,98.14,Advance,ASH,2.00-2.99,F,VVS2,IGI
+Aurora Diamonds Ltd,9233.64,3014.4,United Kingdom,Rohan Kapoor,,2024-08-06,2026-08-17,7,1319.09,166.92,41,98.03,30 days,EM,3.00-4.99,E,VS2,IGI
+Lumina Creations Pvt Ltd,9168,9287.11,India,Aditya Nair,Northstar Agency,2024-08-14,2026-07-23,13,705.23,160.17,131,98.18,60 days,MQ,3.00-4.99,F,VS1,IGI
+Juniper Creations Co Ltd,8986.1,10624.4,Thailand,Meera Pillai,,2024-08-13,2026-08-14,6,1497.68,151.66,124,98.23,7 days,OV,1.00-1.49,E,SI1,IGI
+Solstice Stones LLC,8958.03,8877.98,United States,Vikram Desai,,2024-08-08,2026-08-21,14,639.86,168.57,44,98.35,Advance,OV,3.00-4.99,H,VS1,IGI
+Solstice Jewellery LLC,8940.11,4883.96,United Arab Emirates,Dev Arora,Brightline Brokers,2024-08-13,2026-08-15,7,1277.16,150.09,78,98.58,Advance,CU,1.00-1.49,D,VVS2,IGI
+Juniper Diamond Traders LLP,8900.49,26510.55,India,Karan Bhatia,Prism Trade Links,2024-08-20,2025-11-07,2,4450.25,173.88,38,98.17,7 days,OV,3.00-4.99,E,VVS2,IGI
+Aurora Brilliants LLC,8798.67,7767.91,United Arab Emirates,Vikram Desai,Northstar Agency,2024-08-09,2026-08-17,15,586.58,141.45,57,98.44,7 days,RB,2.00-2.99,D,VS2,IGI
+Brightwater Stones Ltd,8751.88,4152.34,Hong Kong,Aditya Nair,,2024-08-08,2026-08-22,10,875.19,152.92,103,98.26,5 days,ASH,0.50-0.99,H,VS1,IGI
+Silverleaf Fine Jewelry Inc,8535.3,7359.58,United States,Rohan Kapoor,,2024-08-14,2026-06-24,6,1422.55,168.03,41,98.22,Advance,EM,5.00+,E,VVS2,IGI
+Emberly Stones Co Ltd,8454.84,27898.25,Hong Kong,Dev Arora,,2024-08-10,2025-11-09,2,4227.42,137.09,80,98.13,7 days,MQ,1.50-1.99,E,VVS2,IGI
+Evermore Fine Jewelry Ltd,8432.19,13991.68,Israel,Meera Pillai,,2024-08-07,2026-02-24,9,936.91,157.17,79,98.36,7 days,PE,1.00-1.49,E,VVS2,IGI
+Larkspur Gems FZE,8417.99,4358.61,United Arab Emirates,Neha Joshi,,2025-02-02,2026-08-06,7,1202.57,164.6,32,98.44,30 days,OV,5.00+,D,VS1,IGI
+Glenhaven Brilliants Pvt Ltd,8363.56,8592.86,India,Meera Pillai,Atlas Gem Agents,2025-01-03,2026-07-30,6,1393.93,150.08,114,98.08,Advance,ASH,1.00-1.49,E,VS1,IGI
+Starling Gem House Ltd,8310.63,5918.81,Israel,Neha Joshi,,2024-08-15,2026-08-08,6,1385.1,148.34,54,98.29,Advance,CU,2.00-2.99,D,VS2,IGI
+Tidewell Creations LLP,8278.48,4774.09,India,Isha Reddy,,2024-08-07,2026-07-26,6,1379.75,157.75,27,98.19,Advance,OV,5.00+,E,VVS1,IGI
+Oakridge Stones Ltd,8243.76,7537.6,Hong Kong,Meera Pillai,Facet Partners,2024-08-05,2026-08-18,12,686.98,139.15,50,98.38,90 days,RB,2.00-2.99,E,VVS2,IGI
+Brightwater Jewellery Co,8130.56,18249.4,United States,Sameer Kulkarni,Atlas Gem Agents,2024-08-12,2025-11-20,2,4065.28,142.71,41,98.32,7 days,RB,3.00-4.99,E,VS1,IGI
+Foxglove Stones Co,8130.49,42283.58,United States,Isha Reddy,,2024-08-09,2025-12-07,3,2710.16,149.31,51,98.26,Advance,RAD,3.00-4.99,H,VVS2,IGI
+Northgate Gems LLP,8109.73,5385.46,India,Dev Arora,Atlas Gem Agents,2024-08-06,2026-08-04,8,1013.72,172.53,32,98.53,Advance,HT,5.00+,E,VVS2,IGI
+Tidewell Creations Ltd,7976.03,5617.2,United Kingdom,Isha Reddy,,2024-08-06,2026-08-07,7,1139.43,149.97,38,98.51,Advance,OV,3.00-4.99,G,VVS2,IGI
+Emberly Jewellery Pty Ltd,7961.98,8458.8,Australia,Aditya Nair,,2024-08-05,2026-08-01,12,663.5,124.2,129,98.27,7 days,CU,0.50-0.99,E,VS1,IGI
+Aurora Gem House LLC,7936.58,7505.47,United Arab Emirates,Vikram Desai,,2024-08-08,2026-08-06,7,1133.8,113.41,95,98.24,Advance,RB,0.50-0.99,D,VVS2,IGI
+Aurora Jewellery LLC,7934.18,7453.21,United States,Isha Reddy,,2024-08-10,2026-07-19,5,1586.84,132.02,53,98.3,Advance,RAD,2.00-2.99,E,VS1,IGI
+Moonstone Diamond Traders Co,7933.14,6156.14,United States,Priya Mehta,,2024-08-08,2026-01-15,4,1983.29,135.96,63,98.38,60 days,RAD,2.00-2.99,D,VVS1,IGI
+Zenith Jewels Co,7876.49,11179.39,United States,Rohan Kapoor,,2024-08-02,2026-08-07,9,875.17,140.88,52,98.25,Cash On Delivery,PE,2.00-2.99,F,VVS2,IGI
+Vantage Brilliants NV,7784.56,5595.88,Belgium,Sameer Kulkarni,Clearview Intermediaries,2024-08-29,2026-07-09,8,973.07,143.38,37,98.15,Advance,EM,3.00-4.99,F,VS1,IGI
+Nobleton Gem House Co Ltd,7709.65,1048.68,Thailand,Vikram Desai,,2025-07-26,2026-07-18,8,963.71,140.46,41,98.39,5 days,OV,3.00-4.99,D,VVS2,IGI
+Evermore Gems Inc,7649.3,4601.65,United States,Ananya Iyer,,2024-08-14,2026-08-11,11,695.39,127.44,47,98.41,7 days,EM,2.00-2.99,F,VS1,IGI
+Pinnacle Jewellery Co Ltd,7613.07,0,Thailand,Dev Arora,,2026-06-05,2026-07-21,3,2537.69,130.9,46,98.82,30 days,RB,2.00-2.99,F,VS1,IGI
+Ivory Coast Brilliants NV,7594.66,7010,Belgium,Ananya Iyer,,2024-08-06,2026-07-20,6,1265.78,138.07,37,98.56,7 days,OV,3.00-4.99,E,VVS2,IGI
+Solstice Jewels Co,7421.85,996.39,United States,Dev Arora,,2025-08-17,2026-08-20,6,1236.98,123.62,98,98.4,Advance,PE,1.00-1.49,H,VS1,IGI
+Emberly Diamonds Ltd,7161.81,5096.5,United Kingdom,Dev Arora,,2024-08-14,2026-07-10,6,1193.64,120.55,43,98.24,Advance,OV,1.50-1.99,E,VVS1,IGI
+Kingsbury Stones Co Ltd,7063.46,6063.7,Hong Kong,Meera Pillai,,2024-08-20,2026-08-09,7,1009.07,134.02,54,98.55,Advance,MQ,2.00-2.99,F,VS2,IGI
+Oakridge Brilliants BVBA,7038.02,3708.78,Belgium,Isha Reddy,,2024-08-05,2026-08-03,8,879.75,113.33,59,98.43,7 days,RB,1.00-1.49,G,VVS2,IGI
+Juniper Stones FZE,7035.19,14481.84,United Arab Emirates,Rohan Kapoor,,2024-08-14,2026-03-05,4,1758.8,127.89,48,98.45,Advance,MQ,2.00-2.99,D,VVS1,IGI
+Celestine Diamonds FZE,7012.73,0,United Arab Emirates,Vikram Desai,,2026-07-20,2026-07-20,1,7012.73,122.05,50,98.19,5 days,RAD,2.00-2.99,E,VS1,IGI
+Solstice Jewellery LLP,6990.32,5091.15,India,Ananya Iyer,Facet Partners,2025-02-09,2026-08-03,11,635.48,128.33,50,98.42,7 days,PE,2.00-2.99,E,VS2,IGI
+Meridian Gem House Inc,6979.76,10790.44,United States,Aditya Nair,Northstar Agency,2024-08-06,2026-07-10,6,1163.29,137.87,45,98.35,Cash On Delivery,EM,3.00-4.99,D,VS2,IGI
+Pinnacle Diamond Traders Ltd,6974.36,5781.06,United Kingdom,Isha Reddy,,2024-08-08,2026-07-09,7,996.34,115.97,42,98.32,Advance,RB,2.00-2.99,D,VS2,IGI
+Zenith Gems Inc,6922.3,33152.02,United States,Isha Reddy,,2024-08-01,2026-02-20,4,1730.58,120.26,89,98.53,Advance,RAD,3.00-4.99,D,VVS2,IGI
+Evermore Jewels FZE,6917.51,25558.44,United Arab Emirates,Vikram Desai,,2024-08-09,2025-12-15,2,3458.75,125.23,73,97.96,7 days,EM,1.50-1.99,F,VS2,IGI
+Kingsbury Brilliants Pvt Ltd,6878.94,7036.31,India,Tara Menon,,2024-08-03,2026-07-06,8,859.87,128.28,57,98.43,Advance,MQ,2.00-2.99,F,SI1,IGI
+Emberly Gem House NV,6765.32,0,Belgium,Vikram Desai,,2026-06-03,2026-07-08,2,3382.66,125.84,86,98.4,7 days,OV,1.00-1.49,G,VVS2,IGI
+Ironwood Fine Jewelry NV,6747.99,0,Belgium,Karan Bhatia,Clearview Intermediaries,2026-01-31,2026-08-15,24,281.17,125.84,88,98.38,7 days,PR,0.50-0.99,G,VS1,IGI
+Evermore Jewellery Ltd,6641.08,4535.08,Hong Kong,Tara Menon,,2025-02-16,2026-08-04,14,474.36,123.15,49,98.3,Cash On Delivery,EM,2.00-2.99,E,VS2,IGI
+Meridian Diamonds Ltd,6587.81,4376.06,Hong Kong,Vikram Desai,,2024-08-09,2026-06-27,7,941.12,129.45,51,98.23,Advance,HT,1.00-1.49,G,VS1,IGI
+Crestline Jewels Inc,6507.24,4759.42,United States,Isha Reddy,,2024-08-11,2026-08-09,7,929.61,112.82,38,98.47,Cash On Delivery,RB,2.00-2.99,F,VVS2,IGI
+Ivory Coast Brilliants Pvt Ltd,6504.77,11004.24,India,Meera Pillai,Clearview Intermediaries,2024-08-17,2026-07-19,8,813.1,93.99,113,98.32,Advance,OV,0.50-0.99,F,VS2,IGI
+Rosewood Gems Pvt Ltd,6477.16,8381.32,India,Neha Joshi,Clearview Intermediaries,2024-08-01,2026-04-26,9,719.68,126.2,33,98.28,Cash On Delivery,EM,3.00-4.99,E,VVS2,IGI
+Glenhaven Stones Inc,6472.86,4476.18,United States,Ananya Iyer,,2024-08-08,2026-06-28,6,1078.81,90,48,98.3,5 days,RB,1.50-1.99,F,VS1,IGI
+Aurora Gem House Pty Ltd,6425.36,17537.08,Australia,Tara Menon,,2024-08-16,2025-12-29,3,2141.79,110.93,73,98.14,Cash On Delivery,PE,1.00-1.49,E,VVS1,IGI
+Oakridge Diamonds Ltd,6317.06,4032.12,Israel,Vikram Desai,,2024-08-13,2026-07-25,7,902.44,144.06,25,98.26,Cash On Delivery,CU,5.00+,E,VS1,IGI
+Foxglove Creations Ltd,6260.69,5532.25,Hong Kong,Aditya Nair,,2024-08-16,2026-08-02,14,447.19,100.15,58,98.3,7 days,RB,1.00-1.49,E,VS1,IGI
+Lumina Diamonds Inc,6259.66,8245.96,United States,Karan Bhatia,,2024-09-06,2026-04-29,6,1043.28,111.65,32,98.27,Cash On Delivery,OV,3.00-4.99,E,VVS2,IGI
+Ivory Coast Diamond Traders Pvt Ltd,6238.96,3773.31,India,Tara Menon,,2025-06-29,2026-08-02,9,693.22,131.91,29,98.35,Advance,CU,5.00+,H,SI1,IGI
+Ivory Coast Gem House Co,6187.47,5061.97,United States,Vikram Desai,,2024-08-11,2026-07-31,8,773.43,110.09,71,98.23,5 days,CU,0.50-0.99,F,VS1,IGI
+Quartzline Jewels Pvt Ltd,6123.84,79752.54,India,Meera Pillai,Prism Trade Links,2024-08-15,2025-09-25,1,6123.84,118.88,70,98.24,Cash On Delivery,CU,3.00-4.99,E,VVS2,IGI
+Harbourline Stones LLC,5941.57,7460.02,United States,Ananya Iyer,,2024-08-06,2026-08-06,6,990.26,104.92,21,98.22,Cash On Delivery,RB,5.00+,E,VS1,IGI
+Driftwood Brilliants Co Ltd,5876.12,3910.31,Hong Kong,Karan Bhatia,Facet Partners,2024-08-07,2026-07-04,8,734.52,96.6,44,98.59,Cash On Delivery,RB,1.50-1.99,H,VVS2,IGI
+Tidewell Diamonds LLC,5750.63,6006.35,United States,Dev Arora,Brightline Brokers,2024-08-09,2026-08-14,14,410.76,91.46,60,98.32,Cash On Delivery,OV,1.00-1.49,E,VVS1,IGI
+Brightwater Jewellery Pvt Ltd,5686.4,5128.29,India,Karan Bhatia,,2025-01-05,2026-08-21,10,568.64,106.23,31,98.29,90 days,PR,3.00-4.99,F,VS1,IGI
+Ironwood Brilliants LLC,5685.54,4653.92,United Arab Emirates,Isha Reddy,,2024-08-15,2026-08-01,16,355.35,102.49,54,98.45,7 days,EM,1.00-1.49,G,VS1,IGI
+Aurora Diamonds Inc,5620.23,6464.04,Canada,Neha Joshi,,2024-08-12,2026-07-19,9,624.47,103.65,32,98.25,Advance,PE,3.00-4.99,F,VS1,IGI
+Ivory Coast Diamonds Co,5565.9,18483.94,United States,Ananya Iyer,,2024-08-03,2026-01-25,7,795.13,88.47,43,98.35,7 days,RB,1.00-1.49,D,VS1,IGI
+Bluestone Gem House Pvt Ltd,5535.02,0,India,Ananya Iyer,,2025-09-02,2026-07-26,9,615,100.79,42,98.28,Advance,HT,2.00-2.99,D,VVS1,IGI
+Westbrook Diamonds Pvt Ltd,5478.74,20512.91,India,Ananya Iyer,Clearview Intermediaries,2024-08-16,2025-10-23,2,2739.37,95.68,38,98.73,Advance,ASH,2.00-2.99,D,VVS2,IGI
+Meridian Fine Jewelry Pvt Ltd,5231.36,4187.61,India,Neha Joshi,,2024-08-19,2026-08-07,14,373.67,85.04,59,98.38,Cash On Delivery,EM,0.50-0.99,F,VVS2,IGI
+Tidewell Jewels Pvt Ltd,5221.53,4120.11,India,Ananya Iyer,,2024-08-04,2026-08-18,12,435.13,85.06,43,98.45,Cash On Delivery,RB,1.00-1.49,E,VS1,IGI
+Starling Jewels LLP,5171.88,5999.78,India,Meera Pillai,,2024-08-16,2026-06-13,5,1034.38,93.08,48,98.47,Advance,PE,1.00-1.49,D,VVS2,IGI
+Driftwood Stones LLC,5162.74,6267.36,United States,Ananya Iyer,,2024-08-18,2026-07-24,12,430.23,81.34,42,98.25,Advance,RB,1.50-1.99,E,VS1,IGI
+Cobalt Creations Inc,5151.26,6794.96,United States,Tara Menon,Brightline Brokers,2024-09-22,2026-07-18,7,735.89,106.5,21,98.2,Cash On Delivery,EM,5.00+,E,VVS2,IGI
+Evermore Gem House Ltd,4986.46,1466.35,United Kingdom,Tara Menon,,2025-04-26,2026-08-21,7,712.35,88.33,60,98.6,7 days,RAD,0.50-0.99,E,SI1,IGI
+Ivory Coast Jewellery BVBA,4967.27,6702.81,Belgium,Vikram Desai,,2024-08-07,2026-04-06,5,993.45,87.61,33,98.04,Cash On Delivery,RB,1.00-1.49,E,VVS2,IGI
+Brightwater Gems NV,4939.35,11409.63,Belgium,Karan Bhatia,,2024-08-06,2025-12-07,4,1234.84,77.56,37,98.49,Advance,OV,2.00-2.99,E,VVS2,IGI
+Lumina Jewellery FZE,4878.25,0,United Arab Emirates,Ananya Iyer,,2026-03-01,2026-06-08,3,1626.08,76.14,46,98.44,7 days,RB,1.00-1.49,G,VS2,IGI
+Quartzline Creations Pvt Ltd,4864.82,4466.92,India,Sameer Kulkarni,Northstar Agency,2024-08-12,2026-06-26,6,810.8,104.61,23,98.35,60 days,MQ,5.00+,E,VS1,IGI
+Oakridge Gems LLP,4859.58,4264.63,India,Isha Reddy,Facet Partners,2024-08-02,2026-07-02,10,485.96,83.77,55,98.19,7 days,PE,1.00-1.49,H,VVS2,IGI
+Solstice Stones Co Ltd,4858.66,6421.92,Hong Kong,Vikram Desai,,2024-08-05,2026-07-13,11,441.7,82.3,35,98.42,7 days,RB,2.00-2.99,F,VVS2,IGI
+Crestline Brilliants Co Ltd,4851.73,4990.43,Hong Kong,Isha Reddy,,2024-08-08,2026-07-23,8,606.47,88.36,25,98.22,Advance,MQ,3.00-4.99,E,VS1,IGI
+Rosewood Gem House LLP,4767,0,India,Tara Menon,,2026-02-12,2026-08-05,5,953.4,82.07,33,98.22,Advance,PE,2.00-2.99,H,VVS2,IGI
+Ironwood Diamond Traders LLP,4731.09,3181.55,India,Vikram Desai,,2024-08-15,2026-08-05,9,525.68,90.22,34,98.38,60 days,PE,2.00-2.99,F,SI1,IGI
+Vantage Diamond Traders Ltd,4533.86,5473.74,United Kingdom,Priya Mehta,Prism Trade Links,2024-08-18,2026-07-12,8,566.73,76.54,31,98.57,7 days,OV,2.00-2.99,E,VVS1,IGI
+Opaline Brilliants Co Ltd,4508.73,0,Hong Kong,Sameer Kulkarni,,2026-04-12,2026-08-19,3,1502.91,90.69,20,98.25,Cash On Delivery,PR,5.00+,F,VVS2,IGI
+Zenith Diamond Traders Inc,4469.53,3671.96,United States,Meera Pillai,,2024-08-09,2026-07-24,5,893.91,86.03,22,98.39,5 days,RB,3.00-4.99,D,VS1,IGI
+Bluestone Creations Pty Ltd,4443.43,3433.16,Australia,Vikram Desai,,2024-08-20,2026-08-11,8,555.43,70.91,37,98.22,5 days,RB,1.00-1.49,E,VVS1,IGI
+Amberly Jewellery Inc,4426.83,5336.37,United States,Meera Pillai,,2024-08-13,2026-08-17,6,737.81,79.91,28,98.27,7 days,OV,3.00-4.99,E,SI1,IGI
+Bellcourt Gem House Co Ltd,4423.2,4249.59,Hong Kong,Ananya Iyer,,2024-08-11,2026-07-10,7,631.89,75.24,30,98.62,7 days,OV,2.00-2.99,F,VS1,IGI
+Oakridge Diamond Traders FZE,4345.04,4361.89,United Arab Emirates,Vikram Desai,,2024-08-01,2026-06-14,4,1086.26,75.04,36,98.66,Advance,RB,1.00-1.49,G,VVS2,IGI
+Oakridge Gem House Co,4333.31,0,United States,Rohan Kapoor,,2025-11-25,2026-08-10,6,722.22,73.85,30,98.25,5 days,OV,2.00-2.99,G,VVS2,IGI
+Ivory Coast Diamonds Inc,4245.36,4470.14,Canada,Meera Pillai,,2024-08-06,2026-07-31,8,530.67,86.6,26,98.49,Advance,EM,3.00-4.99,F,VS1,IGI
+Foxglove Stones Pvt Ltd,4193.73,0,India,Meera Pillai,,2025-09-30,2026-02-27,4,1048.43,74.64,31,98.15,30 days,RB,2.00-2.99,F,VVS1,IGI
+Radiant Jewels LLP,4115.62,3651.47,India,Rohan Kapoor,,2024-08-09,2026-07-21,8,514.45,72.25,34,98.01,7 days,EM,1.00-1.49,G,VS1,IGI
+Halcyon Jewels LLC,4094.19,3734.74,United Arab Emirates,Isha Reddy,,2024-08-18,2026-07-07,10,409.42,68.52,42,98.31,Advance,OV,1.00-1.49,G,SI1,IGI
+Foxglove Gem House LLP,4008.96,8272.69,India,Tara Menon,,2024-08-09,2026-03-05,8,501.12,60.82,31,98.13,7 days,RB,1.50-1.99,E,VVS2,IGI
+Celestine Diamonds Inc,3955.87,5963.99,United States,Priya Mehta,,2024-08-06,2026-04-28,7,565.12,72.94,30,98.27,5 days,HT,2.00-2.99,E,VVS1,IGI
+Driftwood Creations Co,3852.2,3477.44,United States,Rohan Kapoor,,2024-08-17,2026-07-21,11,350.2,70.17,32,98.31,Advance,MQ,1.00-1.49,F,VS2,IGI
+Quartzline Fine Jewelry LLC,3814.67,2815.03,United States,Aditya Nair,,2024-08-01,2026-07-18,5,762.93,74.7,15,98.24,Advance,OV,5.00+,E,VS2,IGI
+Sapphire Bay Diamonds Inc,3807.85,6296.57,Canada,Rohan Kapoor,,2024-08-18,2026-07-21,5,761.57,56.04,46,97.95,Cash On Delivery,RB,1.00-1.49,G,VS1,IGI
+Vantage Diamonds Pvt Ltd,3759.13,4059.07,India,Isha Reddy,,2024-08-14,2026-08-19,5,751.83,71.35,21,98.11,30 days,RAD,3.00-4.99,H,SI1,IGI
+Glenhaven Stones LLC,3601.31,2069.44,United States,Priya Mehta,,2024-08-07,2026-08-19,6,600.22,62.07,21,98.32,Cash On Delivery,OV,2.00-2.99,D,VS1,IGI
+Lumina Creations Inc,3520.08,1867.86,Canada,Ananya Iyer,,2024-08-03,2026-08-07,6,586.68,70.88,34,98.33,5 days,ASH,3.00-4.99,E,VS1,IGI
+Radiant Jewellery Ltd,3516.47,0,Israel,Tara Menon,,2026-06-18,2026-06-18,1,3516.47,60.53,52,98.35,30 days,OV,1.00-1.49,E,VVS2,IGI
+Tidewell Gem House LLC,3443.71,2857.88,United States,Priya Mehta,Atlas Gem Agents,2024-08-15,2026-07-24,6,573.95,65.38,14,98.41,30 days,OV,5.00+,E,VS1,IGI
+Zenith Gems Pvt Ltd,3407.84,2833.93,India,Priya Mehta,,2024-08-18,2026-08-11,8,425.98,62.63,25,98.47,Cash On Delivery,PE,2.00-2.99,E,VS1,IGI
+Vantage Jewellery Co Ltd,3333.22,6666.07,Thailand,Dev Arora,,2024-08-05,2026-04-30,5,666.64,68.32,21,98.17,Advance,ASH,3.00-4.99,E,VVS2,IGI
+Celestine Diamonds Ltd,3139,9123.35,Israel,Meera Pillai,,2024-08-10,2026-03-14,6,523.17,59.16,29,98.44,5 days,OV,1.50-1.99,E,VS1,IGI
+Driftwood Diamonds Inc,3112.9,1844.08,United States,Neha Joshi,,2025-05-28,2026-02-27,7,444.7,58.97,26,98.43,Cash On Delivery,PE,3.00-4.99,E,VS1,IGI
+Tidewell Creations Inc,2990.24,1341.9,United States,Vikram Desai,,2025-03-23,2026-08-13,8,373.78,58.3,27,97.86,30 days,CU,1.00-1.49,E,VVS1,IGI
+Zenith Stones LLC,2962.85,4795.68,United States,Vikram Desai,,2024-08-06,2026-05-29,6,493.81,57.78,16,98.31,60 days,CU,3.00-4.99,G,SI1,IGI
+Cobalt Jewels Co,2944.98,3470.04,United States,Priya Mehta,,2024-08-08,2026-08-06,4,736.25,48.72,16,98.51,5 days,RB,2.00-2.99,F,VVS2,IGI
+Pinnacle Diamonds Pvt Ltd,2813.27,3771.36,India,Neha Joshi,,2024-08-12,2026-07-14,5,562.65,51.39,16,98.65,5 days,OV,3.00-4.99,G,VVS1,IGI
+Starling Fine Jewelry Ltd,2744.34,0,United Kingdom,Meera Pillai,,2026-07-10,2026-07-26,2,1372.17,43.52,17,98.36,7 days,RB,5.00+,E,SI1,GIA
+Vantage Brilliants LLC,2719.64,0,United States,Aditya Nair,,2026-04-10,2026-08-18,3,906.55,42.28,19,98.18,Advance,RB,2.00-2.99,G,VVS2,IGI
+Westbrook Diamond Traders LLC,2664.18,0,United States,Vikram Desai,,2026-06-01,2026-07-05,2,1332.09,50.92,14,98.53,7 days,OV,5.00+,F,VVS2,IGI
+Opaline Stones LLP,2656.63,0,India,Vikram Desai,,2025-11-12,2026-07-29,5,531.33,52.09,22,98.34,Cash On Delivery,RAD,2.00-2.99,G,VVS2,IGI
+Brightwater Jewellery Co Ltd,2526.14,3040.15,Thailand,Tara Menon,,2024-08-18,2026-06-17,5,505.23,48.15,35,98.45,5 days,ASH,1.00-1.49,E,VS1,IGI
+Sapphire Bay Stones FZE,2511.84,3420.09,United Arab Emirates,Vikram Desai,Northstar Agency,2024-08-16,2026-07-18,6,418.64,44.9,17,98.54,7 days,EM,2.00-2.99,H,VVS2,IGI
+Larkspur Creations Co,2495.83,18863.72,United States,Neha Joshi,,2024-08-08,2025-10-07,1,2495.83,41.62,19,98.48,5 days,RAD,2.00-2.99,F,VS1,IGI
+Rosewood Fine Jewelry Co,2494.88,9161.94,United States,Ananya Iyer,,2024-08-18,2025-10-31,2,1247.44,41.66,16,98.26,90 days,RB,2.00-2.99,E,VS1,IGI
+Halcyon Jewellery Ltd,2465.41,2614.74,Hong Kong,Priya Mehta,,2024-08-06,2026-07-10,6,410.9,43.83,20,98.54,Advance,RAD,1.50-1.99,H,VVS1,IGI
+Rosewood Jewellery Inc,2346.61,0,United States,Tara Menon,,2026-05-19,2026-07-15,2,1173.31,41.63,14,98.44,5 days,RB,3.00-4.99,E,VS1,IGI
+Moonstone Diamonds Pvt Ltd,2334.08,2713.64,India,Rohan Kapoor,Northstar Agency,2024-08-10,2026-06-23,5,466.82,44.02,17,98.38,5 days,MQ,3.00-4.99,G,VVS2,IGI
+Willowmere Jewellery BVBA,2308.26,0,Belgium,Isha Reddy,Facet Partners,2026-03-01,2026-07-31,3,769.42,42.32,16,98.37,Advance,MQ,2.00-2.99,G,VVS2,IGI
+Nobleton Gem House LLC,2048.47,4038.28,United States,Tara Menon,,2025-06-15,2025-10-23,3,682.82,34.4,14,98.39,5 days,RAD,2.00-2.99,F,VS1,IGI
+Ivory Coast Creations LLP,2000.42,6835.56,India,Ananya Iyer,,2024-08-20,2026-01-04,3,666.81,36.67,25,98.06,Advance,PE,1.00-1.49,D,VS2,IGI
+Amberly Diamond Traders Co,1999.42,3762.46,United States,Rohan Kapoor,,2024-08-06,2026-01-20,3,666.47,38.52,13,98.07,90 days,HT,1.00-1.49,E,VVS2,IGI
+Halcyon Gems LLP,1995.8,3606.09,India,Sameer Kulkarni,,2025-02-19,2025-12-15,3,665.27,37.96,9,98.68,Cash On Delivery,EM,3.00-4.99,D,VS1,IGI
+Ironwood Diamonds LLC,1861.54,3193.82,United States,Aditya Nair,,2024-08-04,2026-06-20,4,465.39,35.82,20,98.38,5 days,RAD,3.00-4.99,D,VS1,IGI
+Aurora Stones Ltd,1836.99,0,Hong Kong,Neha Joshi,,2026-07-03,2026-08-04,3,612.33,38.95,20,98.72,5 days,CU,3.00-4.99,G,VVS1,IGI
+Celestine Stones Pvt Ltd,1800.73,12235.69,India,Aditya Nair,,2024-08-06,2025-11-05,1,1800.73,37.67,15,98.39,Advance,PR,1.00-1.49,D,VVS2,IGI
+Sapphire Bay Jewels NV,1626.46,3442.72,Belgium,Aditya Nair,,2024-08-04,2026-03-16,4,406.62,29.56,19,98.37,7 days,RAD,1.00-1.49,F,SI1,IGI
+Tidewell Brilliants Co,1622.44,0,United States,Aditya Nair,,2025-10-05,2026-06-26,4,405.61,29.05,17,98.06,5 days,CU,1.00-1.49,D,VVS2,IGI
+Radiant Diamonds Co Ltd,1376.27,12971.64,Hong Kong,Neha Joshi,,2024-08-09,2025-10-13,2,688.14,27.89,7,98.4,Cash On Delivery,MQ,5.00+,E,VVS1,IGI
+Juniper Jewellery Ltd,1278.42,3115.03,Israel,Aditya Nair,Facet Partners,2024-08-10,2026-01-18,3,426.14,19.97,21,98.16,Advance,MQ,0.50-0.99,D,VS1,IGI
+Juniper Gems LLP,1092.92,0,India,Priya Mehta,,2026-07-18,2026-07-18,1,1092.92,17.26,7,98.89,Advance,RB,2.00-2.99,D,VVS2,GIA
+Glenhaven Jewels Ltd,1063.92,5734.67,United Kingdom,Sameer Kulkarni,,2024-08-02,2025-10-02,1,1063.92,16.16,13,98.39,5 days,RB,1.00-1.49,E,VS1,IGI
+Juniper Gem House Pty Ltd,991.64,2447.67,Australia,Vikram Desai,,2025-02-09,2025-12-04,2,495.82,16.42,9,98.39,7 days,OV,1.50-1.99,D,VS1,IGI
+Glenhaven Gems LLP,922.31,4532.41,India,Vikram Desai,,2024-08-12,2025-10-16,1,922.31,17.51,4,98.31,Advance,CU,3.00-4.99,E,VVS2,IGI
+Lumina Fine Jewelry Pvt Ltd,877.59,4193.84,India,Tara Menon,,2024-08-02,2025-11-03,3,292.53,15.06,11,98.19,Advance,PE,1.00-1.49,D,VVS2,IGI
+Lumina Jewels Co Ltd,712.25,2495.6,Thailand,Ananya Iyer,,2024-08-08,2025-08-23,1,712.25,15.16,6,98.64,7 days,RAD,2.00-2.99,E,VVS1,IGI
+Bluestone Jewels Pvt Ltd,356.97,0,India,Dev Arora,,2026-06-15,2026-06-15,1,356.97,5.83,10,96.17,5 days,PE,0.50-0.99,E,VS1,IGI
